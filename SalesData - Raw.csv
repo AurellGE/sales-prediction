@@ -1,0 +1,1001 @@
+Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Discount,Region
+2000,Culture Max,Furniture,440.82,3,1322.46,Michelle Lin,4/23/2023,,West
+2001,Medical Classic,Home Decor,175.05,4,700.2,Julie Carter,9/3/2023,,South
+2002,Ability Classic,Electronics,-375.4,3,1126.2,Miranda Wells,9/18/2023,,West
+2003,Piece Plus,Electronics,435.17,,,Michael Dunlap,6/28/2024,,South
+2004,Your Classic,Furniture,-949.11,2,1898.22,Michelle Smith,6/19/2023,,North
+2005,Western Lite,Sports,80.92,1,80.92,Kyle Moody PhD,9/7/2023,7%,South
+2006,With Max,Electronics,455.06,4,1820.24,Robin Wood,3/6/2023,24%,East
+2007,Let Max,Sports,31.56,2,63.12,Jasmine Mayer,8/10/2024,9%,East
+2008,Among Max,Electronics,50.91,4,203.64,,1/27/2023,None,South
+2009,Challenge Lite,Apparel,33.24,3,99.72,Thomas Schneider,1/21/2023,None,West
+2010,Chair Max,Electronics,67.25,,,Katherine Howe,7/24/2023,None,South
+2011,Far Plus,Home Decor,27.48,,,Maria Soto,2/27/2024,4%,South
+2012,Check Max,Home Decor,83.39,4,333.56,7037,8/24/2024,None,West
+2013,Before Plus,Apparel,28.9,4,115.6,Daisy Mills,3/9/2023,30%,North
+2014,Movement Plus,Electronics,244.38,4,977.52,Heather Estes,8/24/2024,None,South
+2015,Act Classic,Furniture,530.57,4,2122.28,Lisa Johnson,12/1/2024,3%,East
+2016,Local Lite,Apparel,27.7,4,177.16,Alyssa Villarreal,7/6/2023,,East
+2017,Campaign Lite,Sports,197.78,2,395.56,Kathryn Banks,7/12/2024,,East
+2018,Down Plus,Sports,61.76,3,185.28,Michael West,7/26/2024,,South
+2019,Rest Lite,Sports,106.39,1,106.39,Kelly Russell,5/9/2024,,North
+2020,Condition Pro,Furniture,223.87,3,671.61,Joshua Ramirez,2/13/2024,None,South
+2021,Style Plus,Sports,152.81,,,9581,1/21/2024,2%,West
+2022,Employee Lite,Home Decor,170.18,2,340.36,Cynthia Johnson,4/23/2024,18%,
+2023,Believe Max,Apparel,22.8,1,22.8,Brandon Wang,Invalid,None,West
+2024,After Max,Home Decor,74.55,3,223.65,Brandon Andersen,9/10/2023,14%,
+2025,Investment Classic,Home Decor,-81.33,2,162.66,Sarah Kelley,2/7/2024,,South
+2026,Well Max,Home Decor,127.07,4,508.28,7184,3/27/2023,,North
+2027,Modern Classic,Sports,158.09,,,Cynthia Hansen,7/2/2023,,North
+2028,Wonder Plus,Sports,85.46,4,341.84,Amanda Jackson,5/16/2023,,West
+2029,Remain Plus,Apparel,32.46,2,64.92,Brittney Taylor,2/23/2023,3%,East
+2030,Ok Max,Furniture,225.67,2,451.34,Roy Martinez,8/19/2024,19%,West
+2031,Well Pro,Apparel,40.92,4,163.68,Mathew Martinez,Invalid,None,North
+2032,Weight Pro,Furniture,433.18,,,Juan Vance,2/17/2024,,North
+2033,Author Plus,Electronics,63.59,3,190.77,Jeanne Moses,3/17/2023,None,East
+2034,Three Pro,Apparel,41.31,2,82.62,Amy Taylor,10/4/2024,16%,East
+2035,Look Classic,Apparel,20.16,3,60.48,Joshua Barnes,6/1/2024,,West
+2036,Process Plus,Sports,234.24,1,234.24,Joy Lee,1/23/2024,28%,East
+2037,Near Lite,Electronics,106.25,4,425,1836,11/24/2024,None,North
+2038,Create Pro,Home Decor,75.57,2,151.14,Sophia Williams,9/1/2024,None,East
+2039,Collection Pro,Furniture,850.48,3,2551.44,Henry Heath,Invalid,None,West
+2040,Find Max,Home Decor,121.23,2,242.46,Heidi Huff,5/4/2023,26%,South
+2041,If Plus,Apparel,11.52,4,46.08,Shirley Galloway,7/25/2024,None,West
+2042,Well Plus,Apparel,22.3,3,66.9,Todd Rodriguez,9/12/2024,None,East
+2043,Finally Pro,Electronics,251.33,4,1005.32,Leslie Anderson,10/7/2023,None,South
+2044,Cover Plus,Apparel,33.01,2,66.02,Scott Brown,8/25/2024,None,North
+2045,Memory Plus,Apparel,39.95,1,39.95,Jonathan Flores,3/10/2024,,North
+2046,Plant Pro,Electronics,220.67,1,220.67,Jonathon Gonzales,12/19/2022,18%,North
+2047,Good Lite,Electronics,182.99,3,548.97,Tina Camacho,9/24/2023,,West
+2048,Open Pro,Sports,205.85,1,205.85,Matthew Rivers,3/25/2023,17%,South
+2049,Condition Pro,Furniture,609.28,,,Joe Miller,1/5/2024,None,West
+2050,Art Pro,Electronics,226.21,1,226.21,Laurie Little,Invalid,3%,
+2051,Mention Lite,Apparel,19.76,3,59.28,8242,7/28/2023,,South
+2052,Candidate Pro,Sports,161.35,2,322.7,David Gibbs,7/24/2024,20%,West
+2053,Room Max,Electronics,404.12,,,Eric Newman,3/24/2024,,South
+2054,Fish Plus,Furniture,924.7,3,2774.1,David Foster,1/29/2024,None,West
+2055,Law Lite,Furniture,691.9,4,2767.6,Jon Hogan,11/29/2023,None,South
+2056,Best Plus,Electronics,347.23,2,694.46,Yesenia Hernandez,11/18/2024,,South
+2057,Possible Lite,Apparel,40.94,1,40.94,Taylor Ayers,6/21/2023,None,West
+2058,Nearly Plus,Sports,22.53,4,90.12,Darren Archer,7/26/2024,None,South
+2059,May Classic,Electronics,365.59,1,365.59,Lindsay Vargas,4/23/2023,17%,South
+2060,Value Max,Sports,281.4,3,844.2,Steven Dixon,11/14/2024,,North
+2061,Land Lite,Home Decor,59.56,2,119.12,Charles Howard,2/22/2024,None,North
+2062,Court Pro,Home Decor,95.36,4,381.44,David Monroe,3/19/2024,,East
+2063,Several Lite,Electronics,276.42,3,829.26,Lisa Barton,10/18/2023,30%,North
+2064,Home Classic,Electronics,308.57,,,Andrew Williams,12/12/2023,,East
+2065,Region Classic,Furniture,970.03,,,Thomas Frederick,3/2/2023,,West
+2066,Election Classic,Sports,195.62,4,782.48,Mrs. Tanya Johnson,12/28/2023,None,West
+2067,Report Max,Home Decor,11.78,1,11.78,David Johnson,10/15/2024,None,West
+2068,Attention Plus,Furniture,528.27,4,2113.08,Jacob Sheppard,7/13/2024,None,North
+2069,Fly Max,Home Decor,75.18,,,Michael Douglas,6/4/2024,2%,North
+2070,State Max,Furniture,808.85,,,Holly Faulkner,8/14/2023,,South
+2071,Computer Lite,Home Decor,137.4,3,412.2,,4/20/2024,None,
+2072,Officer Classic,Sports,54.81,3,164.43,Joshua Hayes,2/1/2024,None,East
+2073,Town Pro,Electronics,286.44,4,2084.18,Cheryl Lyons,9/8/2024,14%,South
+2074,Husband Lite,Apparel,37.83,1,37.83,Linda Young,5/1/2023,20%,
+2075,Everyone Plus,Electronics,307.77,4,1231.08,Matthew Newton DDS,9/30/2024,20%,South
+2076,Build Pro,Apparel,24.85,1,24.85,Todd Maldonado,10/24/2023,,West
+2077,Focus Max,Sports,32.8,2,65.6,Sarah Bryant,6/2/2023,,North
+2078,Politics Plus,Furniture,627.27,4,2509.08,Brenda Morgan,10/8/2023,None,West
+2079,Charge Lite,Furniture,886.32,1,886.32,Erika Matthews,6/11/2023,None,
+2080,Top Max,Apparel,40.82,4,163.28,Robert Saunders,7/17/2024,7%,North
+2081,Huge Max,Apparel,33.94,3,101.82,Amanda Hurst,7/18/2024,None,West
+2082,Relationship Pro,Electronics,413.77,3,1241.31,David Hill,12/29/2022,None,South
+2083,As Classic,Home Decor,64.12,2,128.24,Mary Hoffman,9/20/2024,,North
+2084,Often Pro,Apparel,49.31,3,147.93,9782,5/8/2023,None,North
+2085,Hit Plus,Furniture,-518.92,4,2075.68,Michelle Elliott,9/16/2024,,North
+2086,Media Classic,Electronics,259.65,1,259.65,Erin Montes,8/8/2024,,North
+2087,Long Classic,Apparel,23.08,4,92.32,Melissa Edwards,12/28/2022,None,East
+2088,Trade Plus,Electronics,90.19,1,90.19,Steve Jones,11/20/2023,,South
+2089,Party Plus,Furniture,437.15,2,874.3,James Snow,4/2/2024,24%,West
+2090,Character Classic,Furniture,954.53,4,3818.12,Robert Davis,5/18/2023,,South
+2091,Mission Pro,Sports,34.68,,,Carrie Waters,1/10/2024,,North
+2092,Sea Lite,Furniture,467.69,4,1870.76,Alex Fields,8/18/2023,17%,North
+2093,Minute Pro,Apparel,47.66,1,47.66,Daniel Horn,5/22/2024,,North
+2094,Improve Pro,Apparel,16.49,1,16.49,Rhonda Herrera,1/13/2024,None,East
+2095,Key Classic,Apparel,35.8,2,71.6,Tina Campbell,1/7/2023,,West
+2096,Laugh Classic,Electronics,434.61,2,869.22,Jessica Harvey,6/21/2024,None,South
+2097,Employee Classic,Electronics,453.26,1,453.26,,6/3/2023,5%,West
+2098,Ten Classic,Furniture,539.94,2,1079.88,Christopher Wells,10/8/2024,,North
+2099,Form Classic,Apparel,34.21,3,191.01,Rita Austin,1/24/2024,None,East
+2100,Trade Classic,Furniture,484.9,,,Christopher Brown,9/7/2023,,North
+2101,Name Plus,Electronics,138.28,1,138.28,Teresa Jones,7/22/2024,None,North
+2102,Suggest Plus,Apparel,14.9,4,59.6,Michelle Roman,5/23/2024,24%,South
+2103,Look Lite,Apparel,39,,,Emily Humphrey,4/2/2023,13%,East
+2104,Land Lite,Apparel,36.03,,,William Jackson,5/11/2023,,South
+2105,Upon Classic,Home Decor,-12.12,3,36.36,Jessica Hunter,9/5/2024,None,North
+2106,Into Lite,Electronics,388.1,3,1886.46,,Invalid,,West
+2107,Live Classic,Furniture,816.83,,,Jason Soto,3/6/2023,,West
+2108,A Classic,Furniture,111.47,,,Mark Carrillo,5/2/2024,21%,South
+2109,Different Max,Furniture,669.2,,,Troy Esparza,11/3/2023,None,South
+2110,Perhaps Plus,Electronics,435.15,2,870.3,Ellen Turner,10/22/2024,,South
+2111,Campaign Lite,Sports,173.6,2,347.2,Mark York,5/23/2023,None,West
+2112,Gun Lite,Home Decor,177.4,2,354.8,Jordan Hernandez,7/29/2024,,West
+2113,Street Plus,Furniture,398,2,796,Justin Guerrero,9/7/2024,None,East
+2114,Order Lite,Apparel,15.32,4,61.28,Crystal Rodriguez,12/25/2022,,North
+2115,Stay Pro,Home Decor,174.73,1,174.73,Amy Moreno,11/30/2024,None,East
+2116,Single Classic,Home Decor,-58.3,2,116.6,Bruce Hall,Invalid,,North
+2117,Evening Classic,Home Decor,34.56,2,69.12,,1/26/2023,,South
+2118,Total Pro,Electronics,392.76,4,1571.04,Donna Mullins,3/29/2023,None,South
+2119,Seem Max,Furniture,733.28,1,733.28,Kevin Rodriguez,2/11/2023,29%,South
+2120,Appear Pro,Furniture,864.39,1,864.39,Maria Schneider,6/22/2023,21%,West
+2121,Hot Max,Furniture,895.41,2,1790.82,Sherri Todd,1/22/2024,15%,South
+2122,Another Classic,Home Decor,-142.7,2,285.4,James Grant,2/7/2024,,East
+2123,Market Classic,Apparel,45.81,2,91.62,Christina Rodriguez,1/7/2024,,South
+2124,Affect Classic,Furniture,866.79,1,866.79,Joel Jenkins,8/12/2024,None,West
+2125,Information Classic,Apparel,17.54,,,Matthew Shepherd,12/12/2023,29%,South
+2126,Call Max,Apparel,41.88,2,83.76,Mackenzie Lambert,3/23/2023,22%,West
+2127,Sign Lite,Home Decor,92.8,1,92.8,Melissa Patrick DVM,2/8/2023,7%,North
+2128,Hour Plus,Home Decor,73.35,4,293.4,Ronald Wilson,3/23/2024,17%,North
+2129,Traditional Max,Apparel,27.31,,,Nicolas Dunn,5/1/2023,None,
+2130,Seek Classic,Sports,196.59,4,786.36,Stacey Hayes,9/25/2023,5%,West
+2131,Prepare Max,Sports,91.27,1,91.27,Anthony Martinez,2/9/2024,None,East
+2132,Prove Plus,Electronics,50.57,4,202.28,Roger Perez,1/23/2023,None,North
+2133,Worry Plus,Home Decor,94.03,,,,8/15/2024,,West
+2134,Begin Lite,Electronics,64.92,3,194.76,Rebecca Henderson,10/2/2024,,West
+2135,Claim Plus,Sports,261.75,3,785.25,Christina Williams,12/6/2022,None,North
+2136,Fight Lite,Apparel,35.07,3,105.21,Michele Kim,3/18/2024,21%,East
+2137,Analysis Max,Furniture,848.25,1,848.25,David Harper,1/1/2024,,South
+2138,Phone Plus,Sports,264.07,1,264.07,Anne Woods,6/18/2024,27%,West
+2139,Reveal Max,Home Decor,27.58,2,55.16,8624,6/24/2024,None,North
+2140,Operation Classic,Electronics,242.64,2,485.28,Ashley Flynn,1/17/2023,None,North
+2141,Key Pro,Sports,216.14,4,864.56,Mark Williams,7/5/2023,3%,North
+2142,Wish Lite,Sports,113.72,3,341.16,Kevin Rodgers,6/4/2024,,North
+2143,The Classic,Apparel,28.49,4,212.87,Aaron West,Invalid,,South
+2144,Very Pro,Electronics,113.77,,,Andrea Baker,6/16/2024,14%,East
+2145,Including Pro,Home Decor,66.27,4,265.08,Amanda Tucker,5/23/2023,,South
+2146,Enjoy Classic,Sports,114.34,,,Heather Hernandez,1/5/2023,None,East
+2147,Guy Plus,Apparel,30.74,2,61.48,Luke Chase,4/9/2024,7%,North
+2148,Daughter Classic,Electronics,367.86,1,367.86,Heather Martinez,11/16/2024,,North
+2149,Itself Plus,Electronics,225.2,,,9196,4/9/2024,,North
+2150,Management Pro,Sports,209.61,,,Megan Pace,3/5/2024,None,South
+2151,Method Lite,Sports,59.72,1,59.72,Shannon Howard,12/6/2022,None,West
+2152,Late Classic,Home Decor,29.72,2,59.44,Dustin Cummings,7/17/2024,3%,East
+2153,Sit Classic,Sports,129.9,2,476.6,,10/28/2024,,West
+2154,Section Max,Furniture,908.78,2,1817.56,Daniel Smith,1/18/2023,,West
+2155,Third Pro,Sports,163.86,4,655.44,Carol Lynn,10/25/2023,,South
+2156,Special Lite,Furniture,608.09,3,1824.27,Jerry Johnson,5/14/2024,15%,East
+2157,High Pro,Sports,132.86,,,George Callahan,8/3/2023,None,North
+2158,Property Pro,Electronics,-305.12,1,305.12,Donald Cruz,1/9/2024,3%,South
+2159,State Lite,Home Decor,116.34,4,465.36,Benjamin Nelson MD,Invalid,,South
+2160,Agreement Max,Home Decor,56.27,1,56.27,Jamie Sanders,Invalid,None,North
+2161,As Classic,Apparel,-24.44,1,24.44,,6/10/2024,,South
+2162,Doctor Max,Apparel,13.4,2,26.8,John Garcia,4/12/2024,1%,West
+2163,Resource Plus,Apparel,37.99,2,75.98,Jamie Mcdaniel,12/18/2022,,North
+2164,Watch Pro,Sports,17.22,4,68.88,8914,4/5/2023,18%,East
+2165,Attention Plus,Home Decor,17.47,2,34.94,Jose Peck,3/18/2023,None,North
+2166,Physical Plus,Electronics,377.15,2,754.3,Sarah Johns,11/22/2023,6%,West
+2167,Information Classic,Furniture,199.58,3,598.74,Tara Berry,11/7/2023,,East
+2168,Break Classic,Furniture,575.76,1,575.76,Melissa Larson,12/24/2022,None,East
+2169,Million Lite,Apparel,31.46,,,Brianna Zavala,Invalid,28%,West
+2170,Market Lite,Electronics,92.42,4,369.68,,7/31/2024,None,North
+2171,Watch Classic,Apparel,12.24,4,48.96,Sarah Reid,7/5/2023,6%,North
+2172,Discussion Max,Furniture,998.43,3,2995.29,Jeremiah Miller,4/25/2024,None,East
+2173,Finish Max,Apparel,11.13,4,44.52,4319,9/16/2023,14%,West
+2174,Something Pro,Apparel,45.41,3,136.23,Hunter Rice,10/9/2023,None,East
+2175,Inside Classic,Apparel,10.78,3,32.34,Jessica Wilson,6/24/2024,None,West
+2176,Sign Pro,Sports,76.15,2,152.3,Ryan Austin,8/29/2024,None,East
+2177,Others Plus,Home Decor,13.46,2,26.92,Brian Thomas,9/27/2023,,West
+2178,Office Pro,Apparel,19.37,3,58.11,Samuel Stephens,11/4/2023,,South
+2179,Discover Max,Apparel,19.96,4,79.84,Joseph Maynard,10/7/2023,,South
+2180,Opportunity Plus,Home Decor,171.2,1,171.2,Gary Johnson,12/25/2023,15%,East
+2181,Look Plus,Home Decor,166.39,3,499.17,Sylvia Sherman,4/1/2024,11%,North
+2182,His Plus,Sports,68.91,4,275.64,Jonathan Kelly,6/15/2023,4%,West
+2183,Far Pro,Apparel,40.8,1,40.8,Gregory Williams,6/19/2023,17%,North
+2184,Look Max,Apparel,41.42,2,82.84,Vincent Taylor,9/11/2024,,East
+2185,Wait Classic,Home Decor,70.07,1,70.07,Angie West,Invalid,16%,
+2186,Nothing Plus,Furniture,841.84,1,841.84,,12/25/2023,None,West
+2187,Range Max,Apparel,17.1,,,Nicole Brown,8/17/2024,,East
+2188,Matter Lite,Home Decor,162.42,2,324.84,Sue Reyes,6/19/2023,None,North
+2189,Which Lite,Electronics,274.06,2,548.12,Jennifer Dixon,3/27/2023,,East
+2190,Different Pro,Sports,125.68,3,377.04,Adam Pace,5/13/2023,12%,West
+2191,Little Classic,Electronics,477.28,3,1431.84,Mark Cervantes,9/30/2023,None,East
+2192,South Max,Sports,68.93,2,137.86,3661,4/23/2024,None,South
+2193,Enjoy Max,Sports,279.44,2,558.88,Matthew Fields,9/5/2023,,
+2194,Occur Pro,Electronics,125.54,1,125.54,Jeremy Ramirez,5/21/2023,,South
+2195,Mean Max,Furniture,169.59,2,339.18,8067,1/26/2023,,West
+2196,Answer Pro,Sports,-154.77,3,464.31,Michael Miller,7/16/2024,None,East
+2197,Make Classic,Sports,102.94,,,4205,6/10/2024,28%,South
+2198,Tv Classic,Electronics,112.48,2,224.96,Tammy Little,6/5/2023,None,North
+2199,Boy Pro,Apparel,30.03,2,60.06,Kristin Wagner,7/28/2023,None,West
+2200,Outside Pro,Apparel,11.34,3,34.02,Richard Williams,7/6/2023,,
+2201,Feel Pro,Electronics,163.87,2,327.74,Patrick Barber,11/18/2023,,East
+2202,Government Lite,Home Decor,120.94,4,483.76,Meagan Crosby,3/11/2023,,South
+2203,End Classic,Electronics,72.23,,,Ashley Sandoval,1/15/2024,,East
+2204,Girl Max,Apparel,36.56,4,146.24,Lynn Griffin,12/1/2024,13%,South
+2205,Bag Pro,Home Decor,82.91,4,331.64,Mr. David Lowe,8/11/2024,None,East
+2206,Without Classic,Furniture,-140.58,2,281.16,Ryan Williams,6/3/2023,None,East
+2207,Chance Max,Furniture,171.75,2,343.5,Elizabeth Alexander,Invalid,None,North
+2208,Course Lite,Home Decor,-40.08,2,80.16,Karen Davis,5/2/2023,26%,West
+2209,Choose Plus,Furniture,708.18,2,1416.36,John Salinas,2/13/2024,None,North
+2210,Rich Lite,Furniture,777.28,4,3109.12,William Mitchell,11/11/2024,16%,West
+2211,Sometimes Max,Electronics,256.59,1,256.59,Kelly Gray,5/17/2024,None,East
+2212,Over Max,Home Decor,186.64,4,746.56,Nicole Frye,1/9/2023,None,South
+2213,Read Lite,Home Decor,165.74,4,1087.59,Jennifer Chang,8/27/2024,,South
+2214,Buy Pro,Home Decor,24.23,1,24.23,,7/26/2024,,North
+2215,Analysis Pro,Home Decor,195.44,2,390.88,Vanessa Moore,4/4/2023,30%,West
+2216,The Pro,Home Decor,109.58,2,219.16,Nicholas Young,9/17/2023,,West
+2217,The Max,Electronics,87.17,4,678.1,Joel Harris,11/26/2023,,West
+2218,Off Classic,Electronics,435.62,,,Amanda Palmer,7/1/2024,None,East
+2219,Region Lite,Home Decor,51.52,,,Timothy Miller,7/23/2023,,North
+2220,Wall Pro,Sports,268.42,4,1073.68,Christopher Olson,12/25/2023,,South
+2221,We Pro,Sports,100.54,1,100.54,Angel Kelly,2/6/2023,None,South
+2222,To Lite,Home Decor,198.62,3,595.86,Laura Obrien,1/1/2024,,North
+2223,Himself Pro,Furniture,863.38,3,2590.14,Olivia Henderson,3/7/2023,,West
+2224,Discussion Pro,Sports,231.97,4,927.88,Jeffrey Howard,2/4/2024,,North
+2225,Customer Max,Electronics,290.49,4,1161.96,Valerie Leonard,5/10/2024,,South
+2226,President Lite,Electronics,274.78,2,549.56,Jordan Macias,5/30/2023,6%,East
+2227,Office Classic,Furniture,873.04,4,3492.16,Megan Silva,11/3/2024,,North
+2228,Technology Max,Furniture,850.77,,,Chelsea Gibson,9/12/2023,13%,West
+2229,Agency Pro,Apparel,19.38,4,77.52,Catherine Rhodes,1/12/2023,13%,
+2230,Trouble Lite,Electronics,434.5,3,1303.5,,7/8/2024,20%,North
+2231,Area Classic,Apparel,41.06,2,82.12,Ricky Smith,6/28/2024,,South
+2232,Now Pro,Sports,256.76,3,770.28,Samuel Pratt,8/9/2024,,North
+2233,Different Lite,Electronics,114.59,1,114.59,Danielle Lester,8/23/2023,None,East
+2234,Wall Max,Home Decor,171.95,3,515.85,Ashley Bradley,1/22/2024,None,North
+2235,Finally Pro,Home Decor,-29.05,2,58.1,Sheryl Garcia,3/19/2024,,West
+2236,Difference Plus,Apparel,13.8,,,Natalie Bradford,9/4/2024,,West
+2237,Size Pro,Sports,185.03,,,Mary James MD,6/9/2024,,South
+2238,Leg Lite,Sports,153.44,,,Douglas Collins,3/22/2023,11%,West
+2239,Safe Classic,Home Decor,66.97,3,200.91,Terry Houston,12/26/2022,25%,
+2240,Vote Lite,Apparel,38.48,3,115.44,Deborah Lambert,11/5/2024,,West
+2241,Apply Pro,Sports,242.29,2,484.58,Victoria Jones,3/2/2024,None,South
+2242,Actually Plus,Apparel,17.6,1,17.6,Samantha Finley,9/5/2023,9%,South
+2243,Music Pro,Apparel,21.82,3,65.46,Sarah Richmond,1/16/2024,,West
+2244,Number Classic,Home Decor,135.78,3,407.34,Margaret Leon,7/7/2024,,East
+2245,Price Lite,Electronics,144.52,3,767.35,,11/21/2023,13%,South
+2246,South Max,Home Decor,181.72,3,545.16,Darrell Acevedo Jr.,7/16/2024,,West
+2247,Break Lite,Home Decor,124.06,3,372.18,Melissa Little,3/16/2023,None,East
+2248,Under Classic,Home Decor,-62.48,,,Robert Snyder,8/21/2024,0%,North
+2249,Character Pro,Home Decor,104.05,,,Amanda Compton,1/14/2023,None,North
+2250,Card Classic,Apparel,22.13,2,44.26,Alec Holland,9/15/2023,None,West
+2251,May Max,Furniture,244.39,3,733.17,Tina Arnold,11/18/2024,None,East
+2252,She Lite,Sports,84.16,,,Thomas Cantrell,6/5/2023,16%,West
+2253,Vote Pro,Sports,246.85,3,740.55,,3/18/2024,27%,West
+2254,Way Max,Sports,-66.67,2,133.34,Gail Fuller,Invalid,,West
+2255,Serious Classic,Home Decor,-9.93,2,19.86,Kaitlyn Alexander,9/11/2024,,East
+2256,Cut Max,Sports,110.15,1,110.15,Thomas Jones,4/15/2023,None,South
+2257,Moment Classic,Furniture,877.01,,,Lisa Wang,6/22/2023,None,West
+2258,Authority Plus,Home Decor,107.28,3,321.84,Laura Fisher,6/17/2023,None,South
+2259,Commercial Max,Apparel,13.22,2,26.44,Chase Howard,11/22/2024,9%,East
+2260,Others Max,Furniture,57.95,1,57.95,Nicole Scott,6/13/2024,,South
+2261,Mission Plus,Home Decor,187.73,4,750.92,Christopher Marshall,9/14/2023,,
+2262,Ability Classic,Apparel,11.21,3,33.63,Terri Miller,6/6/2024,None,West
+2263,Like Plus,Furniture,-570.34,3,1711.02,Mark Taylor,7/30/2023,None,East
+2264,Field Classic,Apparel,35.01,4,259.74,Roy Moore,9/2/2024,,East
+2265,Away Lite,Sports,-98.63,3,295.89,,8/14/2024,,East
+2266,Scientist Max,Furniture,285.84,2,571.68,Jack Olson,5/20/2023,None,West
+2267,Pass Pro,Apparel,49.44,3,148.32,Tammy Curtis,4/11/2024,25%,North
+2268,Push Plus,Home Decor,170.99,4,683.96,Tony Tucker,9/2/2024,None,East
+2269,Defense Lite,Electronics,352.96,2,705.92,Mary Garza,6/13/2024,None,South
+2270,Play Lite,Sports,289.25,3,867.75,Gabriel Holder,8/23/2024,22%,South
+2271,Part Max,Furniture,58.89,2,117.78,Charles Martin,10/27/2023,21%,North
+2272,Measure Plus,Electronics,443.66,2,887.32,Christopher Vega,1/9/2024,10%,West
+2273,Fire Plus,Electronics,183.92,3,551.76,Lisa Jones,1/24/2023,None,East
+2274,Discuss Plus,Sports,172.63,1,172.63,Sarah Clark,7/6/2024,3%,South
+2275,Cause Pro,Home Decor,5.7,2,11.4,Andrea Simmons,12/28/2022,,West
+2276,Wait Max,Apparel,11.7,2,23.4,Joan Martinez,8/20/2023,None,East
+2277,Chance Plus,Sports,99.52,4,398.08,Mr. James Bryant,10/1/2023,None,West
+2278,Push Pro,Electronics,186.83,4,747.32,Jamie Taylor,8/31/2023,None,
+2279,Type Lite,Sports,21.16,2,42.32,Randall Andrews,10/3/2023,None,East
+2280,Ever Lite,Electronics,280.4,1,280.4,David Castillo,3/31/2023,28%,West
+2281,Girl Plus,Furniture,122.95,3,368.85,Lisa Harris,11/8/2023,None,East
+2282,Join Max,Furniture,958.75,1,958.75,Tara Butler,6/21/2023,None,East
+2283,Song Classic,Electronics,243.69,2,805.76,Jonathan Watson,Invalid,None,North
+2284,Almost Lite,Furniture,444.19,3,1332.57,Spencer Mcmahon,12/24/2023,,West
+2285,Kitchen Plus,Apparel,47.7,4,190.8,Ryan Fowler,1/4/2023,None,South
+2286,Start Pro,Electronics,313.79,,,Keith Shepard,11/13/2023,,West
+2287,Forward Lite,Sports,117.89,2,235.78,Tina Tapia,1/6/2024,27%,East
+2288,Age Classic,Electronics,269.39,,,Lisa Davis,1/6/2023,,West
+2289,Should Lite,Apparel,27.85,4,111.4,Jennifer Hughes,6/21/2023,22%,North
+2290,Century Pro,Home Decor,193.14,3,579.42,Brian Smith,5/31/2024,None,East
+2291,These Plus,Apparel,25.63,4,102.52,9709,3/30/2024,None,East
+2292,School Pro,Apparel,13.65,3,77.17,Mary Robinson,11/22/2024,0%,South
+2293,Arrive Pro,Furniture,692.02,3,3323.43,Shawn Gonzales,1/17/2024,29%,South
+2294,Team Lite,Apparel,39.46,2,78.92,Holly Reyes,2/20/2024,27%,West
+2295,Draw Max,Apparel,10.24,1,10.24,,7/29/2023,21%,North
+2296,Together Lite,Home Decor,165.61,2,331.22,Johnny Ryan,8/27/2023,24%,East
+2297,Five Max,Sports,197.66,2,395.32,5545,11/2/2024,1%,West
+2298,Play Pro,Sports,49.11,3,147.33,,6/14/2023,None,South
+2299,Receive Classic,Furniture,471.29,4,1885.16,Ashley Richard,1/7/2024,,North
+2300,Ground Classic,Apparel,30.36,,,Troy Torres,10/11/2024,,East
+2301,Stand Pro,Furniture,211.9,3,635.7,Michael Miller,6/10/2023,,South
+2302,Pressure Lite,Sports,206.99,1,206.99,Dominic Carey,5/12/2023,None,North
+2303,Dream Lite,Furniture,627.81,,,Corey Hanna,10/25/2023,None,North
+2304,Above Plus,Home Decor,82.17,2,164.34,David Fletcher,9/25/2023,,North
+2305,Future Plus,Furniture,907.55,4,3630.2,Daniel Carson,5/1/2023,13%,East
+2306,Table Classic,Home Decor,129.52,2,259.04,Erica Baxter,12/7/2022,,South
+2307,Fund Pro,Home Decor,23.53,,,Jeremy Howard,11/14/2023,8%,South
+2308,Hair Pro,Electronics,233.38,2,466.76,Carol Ortega,9/23/2024,1%,East
+2309,Job Pro,Sports,25.21,2,50.42,Sarah Perez,5/28/2024,,West
+2310,Everyone Max,Electronics,379.51,4,1518.04,Gary Brown,4/4/2023,,South
+2311,Table Classic,Home Decor,138.49,2,276.98,Michael Jackson,3/28/2023,1%,West
+2312,Offer Classic,Sports,70.46,,,Caleb Hunter Jr.,4/3/2024,,North
+2313,Level Plus,Furniture,195.94,2,391.88,Thomas English,2/24/2023,None,North
+2314,Along Max,Home Decor,165.37,,,Mr. Terry Coleman,7/26/2023,None,East
+2315,Short Pro,Home Decor,89.46,4,357.84,Sharon Reed,9/19/2023,25%,North
+2316,Night Pro,Electronics,119.78,4,479.12,Bridget Rodriguez,11/29/2023,8%,East
+2317,Position Classic,Electronics,482.21,2,964.42,Mr. Daniel Hawkins,6/24/2023,,East
+2318,Break Plus,Sports,43.56,2,87.12,Mr. Jacob Campbell,10/6/2024,None,South
+2319,Conference Pro,Electronics,-111.22,,,Kristen Jenkins,10/28/2024,,North
+2320,Wind Lite,Apparel,34.26,4,137.04,Vanessa Bell,11/1/2024,8%,South
+2321,Computer Lite,Furniture,58.99,,,Grant Silva,1/6/2024,None,South
+2322,Recent Pro,Electronics,224.6,2,449.2,Mary Roberts,5/13/2024,,East
+2323,Task Plus,Furniture,114.95,3,344.85,Richard Whitney,7/24/2023,26%,North
+2324,Fear Classic,Electronics,178.33,4,713.32,Alyssa Smith,5/3/2024,,South
+2325,Single Classic,Home Decor,-64.76,,,Brenda Peterson,1/12/2024,,North
+2326,Talk Plus,Home Decor,133.83,3,401.49,Michael Liu,5/7/2023,,West
+2327,Cold Plus,Apparel,20.84,3,62.52,Cameron Bryan,4/24/2024,None,North
+2328,Throw Lite,Home Decor,50.15,,,Mary Pace,7/19/2024,18%,South
+2329,Themselves Pro,Apparel,24.48,1,24.48,4310,6/12/2023,None,East
+2330,Brother Pro,Sports,33.76,2,67.52,Angela Martinez,11/5/2023,None,South
+2331,Successful Classic,Home Decor,40.48,2,80.96,James Matthews,8/26/2023,15%,South
+2332,According Classic,Electronics,42.19,4,168.76,Mark Martinez,7/16/2024,,North
+2333,My Plus,Furniture,519.63,2,1039.26,Amber Wilson,8/27/2024,,South
+2334,Make Lite,Electronics,127.75,1,127.75,,1/17/2024,None,South
+2335,Ok Max,Home Decor,36.98,,,Danielle Cook,3/14/2023,0%,North
+2336,Worry Pro,Furniture,659.1,4,2636.4,Jennifer Ritter,8/29/2023,2%,East
+2337,Build Lite,Furniture,997.95,1,997.95,Michael Warren,6/19/2023,26%,North
+2338,Nothing Lite,Home Decor,-63.15,1,63.15,Leah Adams,3/17/2023,2%,West
+2339,Stop Plus,Sports,197.35,4,789.4,Melissa Austin,1/29/2023,None,East
+2340,Open Max,Home Decor,124.19,2,248.38,Dominique Watkins,9/17/2023,,East
+2341,Professor Lite,Apparel,16.12,3,48.36,John Richardson,8/2/2024,,North
+2342,Maybe Plus,Home Decor,73.67,3,221.01,Jennifer Cooper,11/13/2024,,East
+2343,Low Classic,Apparel,26.19,2,52.38,Linda Collins,12/30/2023,,East
+2344,Capital Lite,Home Decor,18.07,,,Roberto Davis,1/2/2024,11%,South
+2345,Already Pro,Apparel,11.18,4,44.72,Katherine Griffin,9/15/2023,None,West
+2346,Seven Pro,Furniture,639.73,2,1279.46,Erin Wilkinson,1/1/2023,,East
+2347,Parent Max,Apparel,31.25,3,93.75,9252,3/19/2024,23%,West
+2348,Ground Plus,Home Decor,181.81,2,363.62,Sean Nichols,11/10/2024,,North
+2349,Old Classic,Furniture,391.88,4,1567.52,Michael Johnson,1/3/2023,20%,East
+2350,Cost Max,Electronics,173.96,2,347.92,Lori Edwards,5/2/2024,None,
+2351,Agency Plus,Apparel,36.84,3,110.52,Stephen Sharp,12/13/2023,26%,South
+2352,Art Lite,Home Decor,68.01,1,68.01,Garrett Fowler,Invalid,11%,South
+2353,Serve Lite,Home Decor,130.2,4,520.8,Melanie Jones,Invalid,,West
+2354,Forward Plus,Furniture,687.94,1,687.94,Miss Amy Gomez,5/25/2024,None,West
+2355,Collection Lite,Electronics,153.89,4,615.56,Jason Thomas,11/4/2023,,South
+2356,Population Plus,Furniture,279.62,3,838.86,Samuel Garcia,6/1/2023,,North
+2357,Country Max,Electronics,206.37,4,825.48,Jeffrey Jones,Invalid,,West
+2358,Doctor Classic,Furniture,306.48,3,919.44,2023,3/28/2024,None,West
+2359,Increase Classic,Home Decor,56.28,2,112.56,Natasha Cardenas,4/26/2023,None,South
+2360,Six Plus,Apparel,16.03,3,48.09,Aimee Johnson,6/17/2023,,South
+2361,Adult Plus,Apparel,14.22,1,14.22,Richard Henderson,6/11/2024,,West
+2362,Citizen Lite,Sports,255.84,2,511.68,Ashley Ware,4/3/2023,27%,West
+2363,Statement Pro,Sports,148.92,,,7703,4/1/2023,22%,West
+2364,Strong Plus,Home Decor,65.43,3,196.29,Jennifer Henderson,2/6/2024,15%,North
+2365,Street Max,Sports,-178.83,,,Amy Deleon,3/6/2024,None,South
+2366,Relationship Pro,Apparel,18.16,,,Michael Pena,10/18/2024,,East
+2367,Support Pro,Sports,282.99,,,Joseph Peterson,5/7/2023,,West
+2368,Father Max,Home Decor,73.12,3,219.36,Nicole French,3/29/2023,,East
+2369,Fast Lite,Sports,67.84,4,271.36,Aaron Alexander,10/7/2023,3%,
+2370,Recently Plus,Sports,284.22,2,568.44,Erin Allen,4/24/2023,,North
+2371,Happy Max,Furniture,151.47,2,302.94,Michael Walker,12/17/2023,16%,South
+2372,Ground Classic,Apparel,22.49,1,22.49,,10/11/2024,None,South
+2373,Letter Classic,Furniture,724.28,,,Joel Poole,3/12/2023,22%,East
+2374,Thought Classic,Furniture,-437.31,2,874.62,Jared Sutton,10/22/2023,None,East
+2375,Year Max,Home Decor,172.57,4,690.28,Samuel Glover,3/14/2023,,South
+2376,Each Max,Home Decor,50.91,3,152.73,Jacob Munoz,8/5/2024,None,North
+2377,Commercial Max,Electronics,342.38,,,Kim Martinez,7/4/2023,4%,South
+2378,Girl Lite,Furniture,796.65,4,3186.6,Heather Jones,10/8/2023,,North
+2379,Set Plus,Electronics,240.56,,,Christopher Lewis,11/1/2024,,North
+2380,Recent Classic,Home Decor,184.71,3,554.13,Susan Sexton,9/23/2023,,West
+2381,Probably Classic,Furniture,444.84,4,1779.36,Gabriel Grant,11/17/2024,None,South
+2382,Knowledge Lite,Furniture,412.9,4,1651.6,Jake Harmon,6/12/2023,None,West
+2383,Democratic Plus,Furniture,613.02,2,1226.04,Bethany Ruiz,10/2/2024,18%,North
+2384,Bag Classic,Home Decor,165.68,4,662.72,Christina Valdez,3/12/2024,,East
+2385,Significant Pro,Apparel,22.7,3,68.1,Joseph Lawson,1/20/2024,20%,North
+2386,Interest Lite,Apparel,30.18,,,Laura Ross,1/20/2024,None,North
+2387,Leader Max,Apparel,44.72,4,178.88,Jacob Lawson,8/21/2023,26%,South
+2388,Oil Max,Apparel,35.29,4,141.16,Daniel Rivas,2/6/2024,None,East
+2389,Music Classic,Apparel,17.11,4,68.44,,2/5/2023,,North
+2390,Direction Lite,Furniture,897.19,3,2691.57,Samantha Woods MD,6/12/2024,,West
+2391,Finally Max,Sports,167.91,3,503.73,Ryan Perez,6/25/2023,,North
+2392,My Pro,Home Decor,128.19,4,512.76,Michele Page,6/17/2024,17%,East
+2393,Prevent Pro,Furniture,618.57,2,1237.14,David Frank,7/20/2024,,
+2394,Figure Lite,Apparel,41.93,3,125.79,Gordon Henry,5/8/2023,,North
+2395,Stand Plus,Sports,177.95,2,355.9,Heather Stein,1/1/2023,None,East
+2396,West Classic,Apparel,46.51,1,46.51,,12/11/2023,15%,North
+2397,Generation Lite,Home Decor,36.16,4,144.64,Jonathan Davis,2/2/2023,22%,East
+2398,Onto Classic,Furniture,460.73,2,921.46,,Invalid,,South
+2399,Indicate Plus,Furniture,267.32,4,1069.28,Joshua Gonzalez,7/2/2024,None,South
+2400,Rock Plus,Electronics,149.9,,,9941,12/23/2022,,East
+2401,Themselves Max,Apparel,31.64,,,Tara Wilcox,5/1/2023,,South
+2402,View Max,Furniture,633.76,1,633.76,Douglas Moran,8/30/2024,,South
+2403,No Classic,Furniture,781.28,2,1562.56,Scott Sanchez,1/11/2023,None,South
+2404,Wife Lite,Furniture,390.34,4,1561.36,Holly Douglas,Invalid,7%,
+2405,Economy Classic,Home Decor,184.07,3,552.21,Lauren Thomas,1/9/2024,None,North
+2406,Forget Max,Sports,36.92,3,110.76,Ronald Delacruz,6/18/2024,0%,North
+2407,Head Max,Home Decor,57.81,2,115.62,Jo Gibbs,10/10/2024,22%,West
+2408,Recognize Pro,Apparel,48.96,2,97.92,Carlos Clements,6/21/2023,,South
+2409,His Max,Sports,-168.99,4,675.96,1333,11/27/2023,14%,West
+2410,Push Plus,Apparel,17.17,1,17.17,Douglas Tucker,8/18/2024,,North
+2411,Bad Classic,Electronics,471.45,2,942.9,,4/5/2023,7%,West
+2412,Audience Classic,Furniture,840.38,,,Ryan Riley,8/17/2023,17%,West
+2413,Participant Max,Electronics,443.41,4,1773.64,Michelle Caldwell,10/27/2023,,South
+2414,Dream Pro,Apparel,39.12,3,117.36,,11/13/2024,13%,East
+2415,Election Pro,Apparel,49.47,2,98.94,Katherine Dalton,9/11/2024,,South
+2416,Soldier Max,Sports,92.79,3,278.37,Daniel Roberts,9/27/2023,,South
+2417,These Lite,Furniture,196.48,1,196.48,Elizabeth Freeman,12/24/2023,None,South
+2418,It Pro,Electronics,230.04,2,460.08,Kathleen Mason,11/13/2024,None,North
+2419,Executive Plus,Home Decor,98.76,1,98.76,Mary Scott,Invalid,4%,West
+2420,Probably Classic,Sports,291.23,,,Andrea Hamilton,Invalid,13%,North
+2421,Civil Max,Electronics,154.94,,,Keith Pittman,6/12/2024,None,North
+2422,Imagine Max,Furniture,-744.37,3,2233.11,Patrick Little,6/10/2024,19%,East
+2423,Together Lite,Sports,130.55,3,391.65,Penny Bradley,1/6/2024,None,North
+2424,Thus Plus,Home Decor,162.3,,,Larry Beard,4/27/2024,21%,South
+2425,Style Plus,Home Decor,129.18,4,516.72,Brandon Martin,9/24/2023,,North
+2426,Without Max,Home Decor,69.49,4,277.96,,10/17/2023,,East
+2427,Order Plus,Sports,-55.14,2,110.28,Steve Brown,7/30/2024,,West
+2428,Important Classic,Home Decor,111.43,,,Dakota Soto,12/12/2022,,East
+2429,Success Max,Home Decor,36.39,3,109.17,Rhonda Jones,1/21/2023,None,East
+2430,Official Plus,Sports,162.64,1,162.64,Anthony Cunningham,7/12/2024,7%,West
+2431,Like Plus,Apparel,46.01,2,92.02,Kyle Gilbert,11/21/2024,16%,North
+2432,Later Max,Sports,272.61,2,545.22,Randy Lutz,2/4/2024,None,South
+2433,Look Max,Electronics,323.38,2,646.76,6053,5/31/2023,8%,North
+2434,Fact Pro,Sports,291.89,2,583.78,David Williams,5/19/2023,None,West
+2435,Child Lite,Furniture,803.21,3,2409.63,Abigail Rogers,4/13/2023,,South
+2436,At Classic,Apparel,22.12,1,22.12,,Invalid,15%,North
+2437,Protect Classic,Home Decor,118.32,2,236.64,Sherri Osborn,8/28/2023,,South
+2438,Big Plus,Sports,196.5,3,589.5,Sean Mendoza,5/3/2023,28%,East
+2439,Wall Lite,Furniture,922.94,3,2768.82,Nicholas Hamilton,9/18/2024,None,North
+2440,Magazine Pro,Sports,113.41,3,340.23,Frank Gregory,5/9/2024,None,South
+2441,Table Pro,Electronics,365.82,1,365.82,Courtney Garrett,4/13/2023,,East
+2442,Analysis Classic,Sports,85.7,2,171.4,Roberta White,6/30/2024,,West
+2443,Economy Lite,Furniture,990.3,3,2970.9,Sandra Hicks,12/13/2023,,East
+2444,Truth Max,Apparel,37.31,2,74.62,Carl Wise,12/9/2022,10%,South
+2445,Soldier Classic,Apparel,16.62,3,49.86,,8/7/2023,None,South
+2446,Simple Plus,Electronics,388.64,3,1165.92,,1/8/2023,,South
+2447,Plant Pro,Furniture,646.29,2,1292.58,Michelle Mccullough,2/26/2023,None,South
+2448,Machine Plus,Home Decor,-199.78,4,799.12,Christine White,12/23/2022,,North
+2449,Food Plus,Sports,251.29,4,1005.16,Paul Fox,3/26/2023,,East
+2450,Name Plus,Home Decor,190.11,3,570.33,Andrea Nguyen,6/28/2023,1%,East
+2451,Step Lite,Electronics,-94.85,3,284.55,6797,5/1/2023,1%,
+2452,Leave Classic,Sports,176.11,3,528.33,Thomas Greene,11/17/2023,,North
+2453,Media Plus,Electronics,397.41,3,1192.23,Beth King,10/8/2024,None,East
+2454,Indicate Plus,Electronics,211.4,1,211.4,Donald Graham,6/5/2023,16%,East
+2455,Team Max,Apparel,19.97,1,19.97,Alexander Kaiser,12/29/2023,26%,
+2456,Ask Lite,Sports,25.41,,,Kylie Perry,3/13/2024,24%,West
+2457,Political Max,Apparel,27.78,4,111.12,James Marquez,7/20/2023,None,South
+2458,Receive Plus,Electronics,393.27,,,Emma Roth,5/20/2024,,South
+2459,Me Lite,Furniture,123.58,,,April Winters,4/18/2024,27%,West
+2460,Example Pro,Sports,-254.82,4,1019.28,James Allen,1/3/2024,None,East
+2461,Type Pro,Electronics,77.38,,,Tracey Buchanan,11/10/2024,None,West
+2462,Yet Classic,Apparel,42.13,2,84.26,Kelly Peterson,4/18/2023,,North
+2463,World Pro,Electronics,185.65,2,371.3,Mark Hanna DDS,4/21/2023,,East
+2464,Move Lite,Furniture,545.19,3,2858.82,Tasha Harrison,10/29/2024,,North
+2465,Data Classic,Sports,91.7,2,183.4,Richard Cisneros,11/14/2023,None,East
+2466,Culture Lite,Apparel,44.99,3,134.97,Rebekah Garrett,10/3/2024,None,East
+2467,To Max,Furniture,217.15,1,217.15,Paul Carroll,4/14/2024,6%,South
+2468,Water Max,Apparel,23.78,2,47.56,Christy Pearson,6/30/2023,None,West
+2469,Style Pro,Sports,55.48,1,55.48,Melissa Wilson,8/9/2023,,East
+2470,Least Pro,Sports,271.33,,,Michelle Arnold,6/7/2024,13%,
+2471,Ground Lite,Electronics,23.28,4,93.12,Robert Burgess,4/25/2023,None,North
+2472,Her Plus,Furniture,906.86,4,3627.44,Anthony Lawrence,9/5/2023,,South
+2473,Traditional Max,Sports,183.85,2,367.7,,5/30/2024,,West
+2474,Our Classic,Furniture,53.63,,,Edwin Henry,1/30/2023,,South
+2475,Response Max,Apparel,38.9,3,187.15,Joseph Ryan,8/10/2023,8%,South
+2476,Report Classic,Furniture,664.2,3,1992.6,Beth Chase,5/27/2023,20%,North
+2477,Trouble Max,Furniture,702.38,,,Melanie Brooks,12/15/2023,20%,
+2478,Region Classic,Sports,45.79,,,9288,4/4/2023,None,East
+2479,Return Classic,Home Decor,177.12,3,531.36,Lori Ellis,11/10/2024,None,South
+2480,President Pro,Home Decor,6.28,3,18.84,Jessica Moses,8/31/2023,None,West
+2481,Education Classic,Apparel,32.26,,,Mark Perez,11/9/2023,None,West
+2482,Again Classic,Apparel,28.43,4,113.72,Devin Kennedy,6/27/2024,,East
+2483,Inside Max,Home Decor,197.46,4,789.84,Andrea Li,3/3/2023,None,West
+2484,Finally Classic,Sports,165.86,4,663.44,Steven Bird,10/30/2023,,North
+2485,Themselves Max,Apparel,32.26,3,96.78,7104,6/14/2023,None,West
+2486,News Pro,Electronics,265.9,,,Bernard Hill,5/25/2023,,North
+2487,Establish Lite,Furniture,353.49,2,706.98,Tina Levy,7/8/2023,9%,North
+2488,While Plus,Furniture,688.3,1,1137.83,Mark Hunt,12/19/2023,,East
+2489,Whether Lite,Furniture,-279.87,3,839.61,Joseph Collins,4/23/2024,None,North
+2490,Evidence Lite,Sports,79.96,2,159.92,Nicole White,Invalid,22%,East
+2491,Personal Classic,Sports,281.82,3,845.46,Jonathon Soto,6/12/2023,None,North
+2492,Strategy Lite,Furniture,226.3,4,905.2,Katherine Davis,1/12/2024,13%,East
+2493,Up Plus,Furniture,166.54,,,Casey Scott,2/8/2024,30%,South
+2494,Effort Plus,Electronics,128.62,3,385.86,3372,7/24/2024,None,South
+2495,Discussion Plus,Sports,232.29,,,Katelyn Thompson,5/11/2024,None,North
+2496,Why Plus,Electronics,294.55,2,589.1,Alexander Holland,12/9/2023,None,South
+2497,Remain Pro,Sports,294.7,3,884.1,Amanda Wilson,11/12/2023,,North
+2498,Manage Classic,Apparel,40.78,4,163.12,Maria Knight,2/3/2023,28%,East
+2499,Term Plus,Sports,40.55,,,Ronald Walsh,4/22/2024,18%,East
+2500,Dog Pro,Furniture,407.61,1,407.61,Michael Henson,10/16/2023,,South
+2501,Nothing Classic,Furniture,672.35,,,John Moore,1/30/2024,,North
+2502,South Classic,Sports,-74.86,3,224.58,Courtney Smith,8/29/2024,None,South
+2503,Film Classic,Electronics,61.1,4,244.4,Edwin Rogers,9/15/2023,17%,South
+2504,Laugh Classic,Apparel,34.65,4,138.6,James Pruitt,6/8/2023,,West
+2505,Sea Max,Furniture,284.93,4,2053.59,Joshua Williams,8/24/2024,,West
+2506,Room Pro,Furniture,462.1,3,1386.3,Jacob Lee,3/17/2023,,North
+2507,Occur Pro,Furniture,-172.47,4,1172.92,Dale Glass,5/11/2024,,West
+2508,Top Max,Furniture,684.64,2,1369.28,Edward Wang,9/29/2023,19%,West
+2509,Stay Lite,Sports,166.44,4,665.76,Kelli Mccullough,Invalid,None,North
+2510,Quite Lite,Home Decor,105.76,,,Timothy Mitchell,3/6/2023,3%,West
+2511,Occur Max,Home Decor,75.97,2,151.94,Mary Ward,7/9/2023,,West
+2512,Baby Pro,Electronics,114.39,3,343.17,Dr. Sean Vazquez,8/10/2024,None,West
+2513,Process Max,Sports,48.43,3,145.29,Anthony Ward,2/23/2023,19%,North
+2514,Team Classic,Sports,23.4,3,70.2,9323,12/17/2022,,East
+2515,Event Classic,Sports,182.13,1,182.13,Julie Murray,12/15/2022,4%,North
+2516,Door Max,Apparel,-12.38,,,Jessica Briggs,7/24/2024,,East
+2517,Opportunity Pro,Apparel,41.45,3,124.35,Willie Knight,7/4/2024,,West
+2518,Purpose Pro,Electronics,411.98,1,411.98,Amanda Hall,10/5/2024,None,West
+2519,Difference Pro,Apparel,43.97,,,9680,6/2/2023,,East
+2520,Order Max,Apparel,30.2,1,30.2,Jennifer Wade,3/21/2023,,South
+2521,Design Lite,Sports,258.44,3,775.32,Bruce Smith,11/21/2024,None,North
+2522,Republican Pro,Apparel,40.22,2,80.44,Jennifer Bailey,3/16/2024,15%,East
+2523,Show Classic,Electronics,480.26,,,Aaron Murphy,9/16/2023,None,East
+2524,Able Lite,Electronics,124.88,2,249.76,Christina Smith,9/14/2024,,East
+2525,Need Pro,Furniture,253.78,3,761.34,Emily Cantrell,8/11/2024,None,
+2526,None Plus,Furniture,852.5,3,2557.5,Carl Watson,9/11/2023,None,West
+2527,Instead Pro,Sports,225.25,2,450.5,Michelle Ellis,12/13/2022,None,South
+2528,End Lite,Electronics,380.83,4,1523.32,Jasmin Brennan,10/15/2023,22%,East
+2529,Area Lite,Sports,189.11,4,756.44,Clifford Taylor,10/18/2024,None,South
+2530,Director Max,Furniture,784.68,4,3138.72,William Garcia,10/19/2024,8%,South
+2531,Cup Pro,Furniture,58.11,1,58.11,Karina Moore,9/4/2024,,West
+2532,Involve Plus,Sports,110.52,4,442.08,Natasha Brown,5/23/2024,10%,North
+2533,Late Classic,Furniture,885.56,2,1771.12,Charles Torres,9/24/2023,7%,North
+2534,Science Classic,Home Decor,6.27,1,6.27,Virginia Griffith,Invalid,,North
+2535,Ground Max,Electronics,243.32,2,486.64,Crystal Jones,7/22/2023,3%,East
+2536,Agent Classic,Home Decor,187.06,,,Sandra Simon,8/14/2024,None,East
+2537,Weight Plus,Apparel,35.08,,,Michael Rodriguez,3/6/2023,,North
+2538,Political Lite,Sports,120.23,2,240.46,Brittany Vargas,7/10/2023,,North
+2539,System Pro,Sports,120.4,4,481.6,Brian Reid,4/28/2024,14%,North
+2540,Perform Pro,Apparel,12.05,,,Edgar Martin,3/11/2024,None,North
+2541,Floor Plus,Electronics,370.11,2,740.22,,6/14/2023,None,East
+2542,Protect Lite,Furniture,166.44,,,Jose Sanders,1/30/2024,15%,North
+2543,Whole Classic,Home Decor,126,4,504,Misty Rivera,4/30/2023,None,West
+2544,Western Plus,Home Decor,127.39,1,127.39,Tanya Scott,3/6/2024,15%,South
+2545,Street Max,Furniture,758.93,,,Tabitha Brown,1/1/2024,11%,South
+2546,Exactly Plus,Apparel,-19.22,,,Joseph Singleton,4/30/2024,None,West
+2547,Again Pro,Furniture,582.79,,,Sarah Lee,2/14/2024,,South
+2548,Sure Plus,Home Decor,106.18,3,318.54,Kimberly Johnson,7/10/2024,,South
+2549,Matter Pro,Home Decor,185.64,,,Meagan Newton,1/6/2023,None,North
+2550,Tree Classic,Home Decor,133.07,4,532.28,Eric Bridges,6/23/2024,14%,West
+2551,While Classic,Electronics,445.43,1,445.43,Dr. Courtney Taylor,6/23/2023,12%,South
+2552,War Plus,Furniture,723.12,1,723.12,Jasmine Contreras,11/26/2024,15%,North
+2553,Quite Plus,Sports,208.27,2,416.54,Patrick Watson,Invalid,,South
+2554,Property Classic,Apparel,20.32,,,Kathryn Perry DDS,3/19/2024,,South
+2555,Part Lite,Apparel,23.8,1,23.8,Bradley Olson,7/23/2023,4%,South
+2556,Bit Plus,Sports,79.57,2,159.14,Mike Jenkins,6/22/2024,7%,North
+2557,Fine Max,Apparel,19.72,2,39.44,Stephanie Alexander DVM,Invalid,,East
+2558,Cover Plus,Home Decor,87.07,4,348.28,Kaitlin Welch,4/19/2024,,North
+2559,Network Pro,Home Decor,97.02,3,291.06,Amy Waters,3/3/2023,18%,East
+2560,Time Max,Apparel,42.08,3,126.24,Kenneth Rodriguez,8/4/2024,26%,East
+2561,Summer Max,Sports,-254.59,,,Jose Gibson,Invalid,29%,East
+2562,Both Pro,Home Decor,81.04,1,81.04,Amanda Roth,9/15/2024,13%,South
+2563,Each Plus,Home Decor,40.19,4,160.76,Brittany Alvarado,10/30/2023,,South
+2564,Station Classic,Electronics,350.6,2,701.2,Kevin Rojas,9/21/2023,,North
+2565,Final Pro,Home Decor,141.43,,,Mary Li,12/30/2023,14%,East
+2566,They Max,Apparel,47.85,,,Latoya Carter,12/15/2022,None,West
+2567,Step Max,Furniture,177.88,,,Brian Scott,8/1/2023,None,East
+2568,Picture Pro,Apparel,35.19,,,,4/24/2024,17%,East
+2569,Company Plus,Home Decor,124.17,3,372.51,Dr. Cindy Tran,10/27/2023,,North
+2570,Spend Max,Furniture,463.57,2,927.14,Paul Boone,2/10/2023,,East
+2571,Next Pro,Apparel,17.8,3,53.4,Dr. Terry Moore,7/4/2023,,East
+2572,What Plus,Sports,187.05,4,748.2,Brandi Stewart,1/7/2023,23%,North
+2573,Although Classic,Apparel,11.84,2,23.68,Ashley Foster,10/17/2023,None,North
+2574,Class Plus,Apparel,34.29,4,137.16,Robert Riley MD,6/17/2023,None,
+2575,Today Lite,Home Decor,140.94,1,140.94,Ashley Skinner,2/16/2024,2%,
+2576,Despite Classic,Furniture,732.15,,,Wanda Moore,5/27/2023,28%,South
+2577,Science Pro,Home Decor,107.74,1,107.74,Dale Smith,3/3/2024,25%,East
+2578,Really Max,Home Decor,106.45,3,319.35,William Pierce,3/24/2023,,South
+2579,Television Classic,Apparel,49.16,,,5306,12/5/2023,,South
+2580,Theory Lite,Apparel,46.27,2,92.54,Kevin Martinez,9/4/2023,None,South
+2581,Training Classic,Furniture,391.09,2,782.18,Heather Small,11/2/2024,20%,West
+2582,Pass Plus,Electronics,319.91,,,William Gibson,1/2/2023,None,North
+2583,Policy Pro,Home Decor,187,4,748,Eric Morris,9/18/2023,11%,East
+2584,Grow Pro,Furniture,148.96,,,Adam Knight,11/5/2024,,North
+2585,Staff Max,Sports,123.41,4,493.64,,12/31/2023,,North
+2586,Individual Plus,Sports,294.22,1,294.22,Lynn Hughes,12/12/2023,None,East
+2587,Too Max,Apparel,16.68,4,66.72,Megan Roberts,9/2/2023,,South
+2588,Age Plus,Home Decor,28.96,2,57.92,Mary Hamilton,2/7/2023,None,South
+2589,Street Plus,Electronics,454.68,4,1818.72,Aaron Acosta,7/29/2023,None,North
+2590,Different Classic,Sports,86.41,1,86.41,Bryan Tucker,6/26/2023,21%,West
+2591,Role Plus,Furniture,504.4,1,504.4,Sara Richards,9/27/2024,,North
+2592,Personal Lite,Apparel,38.17,,,,4/23/2023,None,North
+2593,Environment Plus,Apparel,41.93,4,167.72,,3/26/2023,,West
+2594,Stop Plus,Apparel,10.23,1,10.23,Leslie Ayers,Invalid,None,North
+2595,Eat Plus,Home Decor,73.12,2,146.24,Dale Thomas,9/27/2023,2%,South
+2596,Far Lite,Electronics,31.89,4,127.56,Carol Thompson,2/13/2023,,
+2597,Purpose Pro,Furniture,683.1,3,2049.3,,4/9/2024,26%,East
+2598,No Plus,Sports,-19.82,3,59.46,Heather Pearson,10/30/2023,,South
+2599,Event Lite,Electronics,257.98,3,773.94,Jennifer Henderson DDS,2/24/2024,None,North
+2600,Between Classic,Home Decor,-11.53,4,46.12,Melanie Newman,3/15/2024,,West
+2601,Always Max,Sports,117.39,4,469.56,Debbie Johnson,2/22/2023,None,West
+2602,Simple Classic,Apparel,39.45,4,157.8,Walter Brown,4/22/2023,None,North
+2603,Offer Plus,Apparel,11.36,1,11.36,Christy Hines,1/14/2023,None,North
+2604,Debate Plus,Furniture,182.03,4,728.12,Brian Green,Invalid,,South
+2605,Decision Max,Electronics,375.2,1,375.2,Robert Herrera,9/12/2024,,North
+2606,Them Pro,Sports,76.01,2,152.02,James Graham,6/8/2024,,South
+2607,Goal Max,Home Decor,97.74,3,293.22,Jennifer Diaz,9/12/2023,,South
+2608,Little Classic,Home Decor,192.83,,,Lisa Cobb,Invalid,6%,West
+2609,Year Lite,Furniture,590.45,3,1771.35,Ms. Christine Henderson,5/31/2024,,East
+2610,Them Pro,Electronics,386.98,1,386.98,Carla Ramos,4/3/2024,None,East
+2611,Against Pro,Apparel,18.76,4,75.04,Paul Parks,3/10/2024,None,North
+2612,Land Max,Furniture,768,,,Matthew Dixon,Invalid,,North
+2613,Nearly Pro,Electronics,65.54,3,196.62,,8/8/2024,,South
+2614,Attorney Pro,Electronics,317.83,1,317.83,Dawn Jackson,7/13/2023,,East
+2615,Everyone Plus,Apparel,15.75,1,15.75,Kayla Bailey,10/17/2023,None,East
+2616,Stand Classic,Sports,43.97,4,175.88,Robert Frederick,6/14/2023,,
+2617,Part Max,Sports,294.94,3,884.82,Randy Dominguez,Invalid,,North
+2618,Box Plus,Furniture,400.7,,,Michelle Walker,3/14/2023,,North
+2619,Win Pro,Electronics,478.44,,,Jonathan Acosta,1/21/2023,None,East
+2620,Theory Classic,Apparel,42.96,2,85.92,James Woods,2/17/2023,None,East
+2621,Eight Plus,Sports,263.25,3,789.75,Yesenia Jackson,5/13/2024,None,South
+2622,Money Classic,Sports,183.71,1,183.71,Brian Davis,3/15/2023,,East
+2623,Clearly Classic,Furniture,194.76,1,194.76,Michele Schmidt,1/1/2023,,West
+2624,Exactly Lite,Electronics,128.73,,,Brian Garcia,4/13/2023,None,South
+2625,Statement Lite,Apparel,47.43,2,94.86,Eric Flores,6/1/2024,29%,North
+2626,Article Classic,Sports,220.49,4,881.96,Melissa Obrien,4/1/2024,,East
+2627,Seven Lite,Home Decor,29.31,1,29.31,John Brown,9/7/2023,23%,North
+2628,Maybe Plus,Home Decor,-26.89,4,107.56,Virginia Thompson,5/30/2023,,
+2629,Experience Pro,Furniture,89.56,3,268.68,Joseph Cummings,3/8/2023,None,West
+2630,Authority Classic,Furniture,545.87,4,2183.48,John Williams,2/22/2024,9%,North
+2631,Health Pro,Sports,-280.8,1,280.8,Michael Ball,3/11/2024,None,South
+2632,Describe Plus,Sports,24.09,4,96.36,Kelly Cole,3/31/2023,None,East
+2633,Evening Pro,Sports,280.29,4,1121.16,Crystal Smith,6/30/2023,,North
+2634,Above Pro,Home Decor,193.56,1,193.56,Bridget Sellers,5/15/2024,25%,East
+2635,Take Plus,Home Decor,139.98,2,279.96,David Hamilton,10/30/2024,None,South
+2636,Break Max,Home Decor,21.15,,,Sarah Ruiz,Invalid,,South
+2637,Set Plus,Sports,139.17,2,278.34,Kenneth Perez,11/4/2023,23%,
+2638,Politics Classic,Home Decor,17.57,1,17.57,Ann Lawrence,7/2/2024,None,North
+2639,Color Pro,Home Decor,141.94,2,283.88,Daniel Chapman,2/3/2024,29%,East
+2640,Must Plus,Electronics,301.03,1,301.03,,11/10/2024,22%,North
+2641,Above Lite,Home Decor,7.7,4,30.8,3317,12/6/2022,None,East
+2642,See Classic,Furniture,430.75,1,430.75,Suzanne Scott,8/17/2023,,
+2643,Special Pro,Furniture,479.32,2,958.64,Jennifer Morales,6/21/2024,3%,South
+2644,Tonight Classic,Sports,286.4,4,1145.6,Lisa Smith,7/14/2023,None,West
+2645,Single Classic,Electronics,365.43,1,365.43,Michael James,8/23/2023,None,
+2646,While Plus,Sports,216.31,1,216.31,Linda Martin,8/16/2023,None,
+2647,My Classic,Home Decor,167.49,1,167.49,Lisa Thompson,8/24/2024,None,South
+2648,Social Pro,Electronics,102.86,1,102.86,Vincent Moon,3/13/2023,,South
+2649,Option Classic,Furniture,561.85,3,1685.55,Aaron Contreras,4/14/2024,,West
+2650,Step Classic,Sports,160.37,,,James Vargas,6/29/2024,23%,West
+2651,Parent Pro,Sports,219.29,1,219.29,Timothy Hurst,12/21/2023,0%,East
+2652,Vote Max,Apparel,23.93,,,4713,7/12/2024,,North
+2653,Firm Classic,Sports,207.24,,,Shawn Rhodes,6/6/2023,1%,West
+2654,Pm Plus,Furniture,533.47,2,1066.94,Jasmine White,8/23/2024,None,South
+2655,Behind Pro,Home Decor,147.96,2,295.92,Daniel Cantrell,5/27/2023,None,North
+2656,Bag Plus,Home Decor,88.17,3,264.51,,4/30/2023,,North
+2657,Finally Plus,Furniture,195.71,1,195.71,James Payne,8/8/2023,17%,North
+2658,Prevent Classic,Sports,251.45,1,251.45,Ernest Johnson,3/31/2023,None,East
+2659,Piece Plus,Electronics,26.29,1,26.29,Elizabeth Brandt,7/28/2024,None,West
+2660,Effort Pro,Furniture,481.61,1,481.61,,5/28/2024,None,South
+2661,Board Max,Electronics,333.91,1,333.91,Henry Delgado,1/30/2024,2%,North
+2662,Doctor Lite,Home Decor,119.58,4,478.32,Nathaniel Turner,5/6/2024,4%,North
+2663,Through Lite,Furniture,417.44,1,417.44,Sandra Austin,3/29/2024,None,North
+2664,Huge Classic,Furniture,221.57,2,443.14,Keith Campbell,8/28/2023,30%,South
+2665,Deep Pro,Furniture,786.57,,,Anthony Barton,8/7/2024,None,East
+2666,Still Lite,Home Decor,64.07,,,Catherine Clark,2/6/2024,None,South
+2667,Of Classic,Apparel,29.78,1,29.78,Dillon Holmes,11/22/2024,16%,East
+2668,Purpose Max,Home Decor,161.12,2,322.24,Norma Ferguson,4/26/2023,None,East
+2669,Push Classic,Electronics,51.9,3,245.31,Kenneth Buchanan,12/1/2024,15%,North
+2670,Term Pro,Apparel,26.7,,,John Rush,3/20/2024,,North
+2671,Factor Classic,Apparel,27.81,4,111.24,Andrew Payne,7/30/2023,,South
+2672,Sister Max,Apparel,12.39,3,37.17,Angela White,1/18/2023,,North
+2673,Firm Pro,Furniture,357.01,,,Cindy Rogers,3/30/2023,26%,East
+2674,Bed Lite,Apparel,11.81,4,47.24,Elizabeth King,8/6/2023,,South
+2675,Explain Classic,Electronics,367.56,2,735.12,Henry Martin,7/10/2024,,West
+2676,Cultural Max,Electronics,219.25,3,657.75,7054,7/24/2023,,North
+2677,Happy Max,Electronics,255.66,1,255.66,Mark Hines,3/21/2023,None,West
+2678,Down Max,Home Decor,90.27,3,270.81,Ariana Turner,4/27/2024,15%,East
+2679,American Pro,Home Decor,186.8,2,373.6,,1/16/2023,None,East
+2680,Throw Classic,Furniture,948.93,3,2846.79,,4/16/2024,12%,East
+2681,On Max,Home Decor,135.61,3,791.47,Bobby Murphy,5/24/2023,,North
+2682,Speech Pro,Home Decor,150.02,4,600.08,Marissa Romero,7/3/2023,,East
+2683,Democratic Max,Furniture,92.59,1,92.59,Ashley Watson,8/30/2024,,North
+2684,American Pro,Home Decor,197.94,1,197.94,Brittany Brown,11/9/2023,,West
+2685,Spring Lite,Home Decor,131.13,2,262.26,Kerry Barr,7/22/2024,None,South
+2686,Million Pro,Electronics,-297.22,1,297.22,Philip Stevens,12/27/2023,None,West
+2687,Off Plus,Home Decor,197.19,,,Victoria Nichols,1/6/2024,,North
+2688,Free Classic,Sports,267.61,2,535.22,Regina Robertson,5/19/2024,,South
+2689,Artist Max,Sports,36.1,3,108.3,Alexandria Mendoza DDS,6/2/2024,8%,West
+2690,Fall Pro,Furniture,865.99,,,Melinda Hernandez,1/2/2024,None,East
+2691,Letter Pro,Apparel,37.81,2,75.62,Edward Ward,4/26/2023,12%,West
+2692,Dinner Classic,Electronics,-75.54,,,Rodney Mason,6/10/2024,,East
+2693,Able Lite,Home Decor,149.23,,,Jason Smith,6/5/2023,15%,West
+2694,Take Pro,Furniture,902.38,2,1804.76,Walter Morton,8/19/2024,17%,West
+2695,Detail Pro,Apparel,10.95,1,10.95,Roberta Cook,12/15/2022,None,West
+2696,Let Pro,Furniture,640.83,1,640.83,Shane Bowers,12/7/2022,13%,North
+2697,Personal Pro,Apparel,35.73,1,35.73,Brittany Phillips,Invalid,,East
+2698,Why Lite,Home Decor,98.24,3,294.72,Joshua Hughes,4/24/2023,,East
+2699,Assume Pro,Sports,132.91,3,398.73,Melanie Soto,3/30/2024,None,North
+2700,However Pro,Sports,237.12,3,711.36,Benjamin Berg,10/3/2023,,East
+2701,Enter Pro,Apparel,31.86,3,95.58,1543,7/29/2024,10%,East
+2702,Poor Pro,Sports,25.14,,,,3/26/2024,None,North
+2703,Stuff Lite,Apparel,46.63,4,186.52,Megan Garcia,8/19/2024,12%,East
+2704,Cause Max,Sports,221.76,3,665.28,Danielle Hamilton,11/4/2024,,East
+2705,Activity Max,Sports,182.75,3,548.25,Robert Reilly,12/19/2023,,North
+2706,Writer Plus,Electronics,271.46,1,271.46,Richard Mcdonald,3/26/2023,None,North
+2707,Prevent Lite,Sports,275.2,3,825.6,John Murray,9/26/2023,None,North
+2708,Kid Pro,Electronics,69.59,1,69.59,James Patel,4/2/2024,,West
+2709,Another Lite,Sports,153.03,2,306.06,Jenna Parker,11/29/2023,None,East
+2710,Language Max,Apparel,29.35,4,117.4,,5/2/2024,24%,East
+2711,Court Max,Furniture,718.98,1,1359.21,Kevin Price,8/11/2024,,East
+2712,Society Plus,Furniture,614.01,,,Brandon Berry,12/23/2023,,East
+2713,West Plus,Apparel,30.02,2,60.04,Alexandra Hughes,8/20/2024,,North
+2714,Region Lite,Home Decor,164.17,2,328.34,Elizabeth Phillips,4/10/2023,None,North
+2715,Explain Pro,Electronics,470.5,1,470.5,Hannah Crosby,2/23/2024,,North
+2716,Me Pro,Sports,57.24,,,Kenneth Bailey,12/16/2022,None,South
+2717,Close Lite,Home Decor,124.16,1,124.16,David Jackson,5/30/2023,14%,East
+2718,Alone Lite,Electronics,482.06,,,Kevin Gray,7/18/2023,,West
+2719,Too Plus,Sports,232.97,3,698.91,Jermaine Patterson DVM,4/16/2023,6%,South
+2720,Grow Lite,Home Decor,196.99,,,Joe Lopez,7/13/2023,,North
+2721,Benefit Max,Apparel,42.03,1,42.03,5966,11/26/2024,,West
+2722,Relate Plus,Sports,168.62,3,505.86,Jason James,1/26/2023,7%,North
+2723,Your Lite,Electronics,415.23,1,415.23,Donna Martinez,8/12/2023,25%,East
+2724,Amount Plus,Furniture,453.46,3,1360.38,Amanda Conley,7/27/2023,23%,East
+2725,Set Max,Apparel,41.05,2,82.1,Bonnie Thompson,5/25/2024,,South
+2726,News Max,Home Decor,174.49,2,348.98,Betty Grimes,2/2/2023,,South
+2727,Family Max,Furniture,606.66,,,Angela Shields,1/7/2023,,West
+2728,Great Max,Apparel,31.94,1,31.94,Sabrina Ibarra,9/26/2024,0%,West
+2729,Bank Pro,Furniture,307.82,4,1231.28,Mr. Brandon Turner,3/10/2024,18%,South
+2730,Analysis Plus,Home Decor,191.56,3,574.68,Tiffany Cardenas,1/20/2023,None,North
+2731,Myself Max,Apparel,21.84,4,141.34,Jeffrey Aguirre,7/13/2023,None,North
+2732,Memory Lite,Home Decor,55.4,1,55.4,7137,2/17/2023,,East
+2733,Evening Max,Electronics,240.83,4,963.32,Nathan Simmons,9/10/2023,,North
+2734,Help Classic,Sports,212.68,3,638.04,Allison Jones,9/2/2023,16%,West
+2735,Around Lite,Furniture,876.31,3,2628.93,William Hensley,3/8/2024,None,East
+2736,House Max,Home Decor,153.17,1,153.17,Kimberly Jackson,4/27/2023,,North
+2737,Response Max,Home Decor,171.61,2,343.22,Jacqueline French,12/22/2022,None,North
+2738,Southern Max,Electronics,-462.31,3,1386.93,5012,12/9/2022,None,North
+2739,Space Pro,Apparel,40.09,3,120.27,Linda Richardson,2/26/2023,None,North
+2740,Someone Lite,Furniture,965.63,,,Courtney Nolan,8/5/2024,,East
+2741,Heavy Pro,Apparel,10.68,,,Brandon Scott,11/4/2023,,East
+2742,Service Classic,Furniture,439.43,1,797.39,Matthew Owens,8/1/2023,,North
+2743,Option Max,Apparel,48.07,2,96.14,Donald Green,9/10/2023,30%,West
+2744,Special Plus,Furniture,998.44,2,1996.88,Heather Graham,4/18/2024,None,South
+2745,Morning Pro,Electronics,391.31,4,1565.24,Angela Nunez,11/26/2024,None,East
+2746,Now Lite,Sports,203.56,1,203.56,Victor Fuentes,8/29/2023,,North
+2747,Evening Lite,Sports,148.29,1,148.29,Lisa Phillips,6/7/2023,None,East
+2748,Beat Pro,Apparel,28.01,1,28.01,Jeffrey Meyer,5/6/2024,,West
+2749,At Pro,Home Decor,8.09,2,16.18,Samuel Rivera,6/28/2023,5%,East
+2750,Type Lite,Home Decor,45.55,2,91.1,,12/8/2023,3%,East
+2751,Understand Pro,Sports,239.82,2,479.64,,4/15/2023,9%,South
+2752,Site Lite,Apparel,15.77,1,15.77,Robert Chang,8/25/2023,27%,West
+2753,Plan Lite,Furniture,919.66,2,1839.32,Stacy Hopkins,8/3/2023,None,North
+2754,Break Classic,Electronics,494.11,3,2893.33,Amy King,10/13/2024,25%,East
+2755,Audience Lite,Sports,-294.24,1,294.24,,6/6/2024,20%,East
+2756,Religious Pro,Home Decor,123.35,1,123.35,9520,8/5/2023,,West
+2757,Environment Lite,Furniture,975.17,,,Jeremy Taylor,11/10/2023,8%,West
+2758,Behavior Lite,Furniture,150.56,,,Joshua Abbott,11/13/2023,None,North
+2759,Herself Lite,Furniture,198.46,3,595.38,Bradley Calderon,2/24/2023,15%,West
+2760,Beat Lite,Sports,48.56,4,194.24,Elizabeth Edwards,2/14/2024,19%,East
+2761,Live Classic,Electronics,341.69,3,1025.07,Eric Romero,4/15/2024,None,West
+2762,Candidate Classic,Furniture,186.4,4,745.6,Maria Nelson,8/30/2023,7%,East
+2763,Education Pro,Home Decor,166.39,4,665.56,Ricardo Peterson,12/3/2023,,North
+2764,Federal Classic,Electronics,153.92,4,615.68,Roger Marks,3/27/2023,None,North
+2765,Employee Lite,Electronics,37.71,4,150.84,Jesse Shaffer,4/6/2023,,North
+2766,Sort Classic,Electronics,20.58,,,Tabitha Moon,11/28/2024,,West
+2767,Bit Max,Electronics,159.09,,,Dr. John Duran,7/6/2023,None,West
+2768,Hard Max,Apparel,15.63,,,Jill Hall,5/8/2023,28%,South
+2769,Firm Lite,Furniture,272.36,4,1089.44,Jacob Hernandez,10/20/2023,None,East
+2770,West Lite,Furniture,893.9,3,2681.7,Kimberly Jones,8/11/2024,24%,West
+2771,Popular Lite,Apparel,11.78,,,Kimberly Jordan,9/5/2023,,East
+2772,Run Max,Sports,103.04,4,412.16,2640,Invalid,3%,South
+2773,Glass Classic,Furniture,-480.43,2,960.86,Megan Spencer,6/5/2023,19%,North
+2774,Contain Plus,Furniture,244.85,3,734.55,Aimee Schmitt,Invalid,None,West
+2775,Any Max,Home Decor,197.46,4,789.84,Haley Tapia,11/10/2024,,South
+2776,At Classic,Furniture,194.72,,,Isabel Soto,7/4/2023,,South
+2777,East Plus,Apparel,47.85,2,95.7,Samantha Walker,4/4/2024,,South
+2778,Nice Max,Electronics,341.05,,,,3/24/2023,None,East
+2779,Find Plus,Furniture,844.38,2,1688.76,Thomas Jackson,4/11/2023,,North
+2780,Purpose Lite,Furniture,877.43,,,Rachel Smith,9/26/2023,25%,West
+2781,Adult Pro,Sports,72.49,2,144.98,Susan Simpson,5/26/2023,20%,North
+2782,Nation Max,Electronics,365.5,3,1096.5,Shannon Clark,4/2/2023,,East
+2783,Lawyer Max,Furniture,836.45,1,836.45,Adrienne Price,11/1/2024,11%,East
+2784,Still Classic,Home Decor,5.32,,,Patrick Jones,4/21/2023,None,West
+2785,Car Lite,Apparel,46.87,4,290.41,Becky Parker,Invalid,None,West
+2786,West Pro,Electronics,232.51,3,697.53,Jason Dickson,2/8/2024,12%,East
+2787,Better Classic,Furniture,189.37,2,378.74,Todd Blake,8/27/2024,,North
+2788,Half Lite,Sports,286.76,2,573.52,Alexis Parker,4/1/2023,18%,
+2789,Bill Lite,Home Decor,181.1,,,Anne Olson,12/6/2022,,West
+2790,Draw Plus,Apparel,20.66,2,82.02,2383,Invalid,5%,West
+2791,Shake Max,Apparel,27,,,Jackie Dixon,2/16/2024,,North
+2792,Leave Max,Furniture,953.4,4,3813.6,Kimberly Gentry,5/28/2024,,South
+2793,Exist Max,Apparel,22.73,2,45.46,David Rodgers,Invalid,,East
+2794,Beyond Max,Electronics,314.27,4,1257.08,Patrick Silva,1/20/2024,,West
+2795,Effect Max,Electronics,96.32,1,96.32,Mark Newman,6/17/2024,None,East
+2796,Bar Pro,Electronics,374.98,,,Elizabeth Warren,9/4/2024,20%,East
+2797,Arm Plus,Sports,248.79,3,746.37,Amy Woods,6/14/2023,,East
+2798,Coach Lite,Apparel,14.63,4,95.24,Andre Wong,2/3/2024,,East
+2799,Beat Plus,Home Decor,98.68,3,296.04,2359,2/29/2024,24%,West
+2800,None Classic,Apparel,21.06,,,Brandon Mosley,Invalid,,East
+2801,Until Plus,Electronics,425.01,2,850.02,Michael Lee,11/11/2024,,
+2802,Culture Lite,Apparel,23.15,,,Jennifer Miller,8/16/2023,,East
+2803,Voice Max,Sports,299.43,2,598.86,Margaret Miller,11/30/2024,None,East
+2804,Happen Max,Electronics,63.4,,,Isaiah Davis,Invalid,17%,East
+2805,Leg Lite,Electronics,364.88,4,1459.52,8932,6/10/2024,None,North
+2806,Service Pro,Home Decor,75.03,,,Tony Marshall,11/25/2023,None,South
+2807,Television Pro,Apparel,40.8,3,122.4,Ryan Quinn,3/12/2023,,North
+2808,Region Classic,Sports,231.44,1,231.44,Anthony Gonzalez,4/5/2024,27%,West
+2809,Man Plus,Apparel,48.03,1,48.03,,2/18/2023,,North
+2810,Before Lite,Furniture,443.8,2,887.6,Ashley Schwartz,10/9/2023,,South
+2811,Particular Plus,Sports,55.62,1,55.62,Megan Fisher,3/4/2024,,East
+2812,Medical Max,Sports,127.33,3,381.99,Barbara Boone,3/8/2023,,West
+2813,Certainly Plus,Electronics,245.21,4,980.84,James Thomas,10/28/2023,,East
+2814,Admit Lite,Apparel,14.16,,,Jesse Adams,9/28/2024,None,South
+2815,Organization Lite,Home Decor,98.91,1,98.91,6470,10/9/2024,8%,North
+2816,Tough Classic,Home Decor,91.88,4,367.52,Christopher Rangel,7/9/2023,10%,East
+2817,Summer Plus,Furniture,463.83,1,463.83,Veronica Schmitt,8/24/2023,None,East
+2818,Music Lite,Apparel,45.73,3,137.19,David Reilly,7/25/2023,18%,South
+2819,Recent Pro,Sports,91.1,,,Caitlin Thompson,10/1/2023,,North
+2820,Material Max,Home Decor,76.95,1,76.95,,2/28/2023,None,West
+2821,Eat Plus,Sports,106.27,4,425.08,Denise Adams,12/9/2023,,East
+2822,Poor Max,Apparel,-44.66,,,Pam Phillips,5/31/2023,,East
+2823,Room Lite,Apparel,44.89,4,179.56,Joel Hill,1/8/2023,,South
+2824,Cup Lite,Furniture,912.54,3,2737.62,Elijah Brandt,11/22/2024,24%,West
+2825,Security Classic,Sports,294.65,3,883.95,Mark Shepherd,8/28/2024,None,North
+2826,Best Pro,Electronics,218.91,4,875.64,Brooke Aguirre,1/1/2023,23%,East
+2827,Actually Lite,Home Decor,-150.81,2,301.62,Brian Maldonado,2/15/2024,14%,West
+2828,Inside Max,Electronics,141.39,4,565.56,Steven Combs,6/21/2024,,East
+2829,War Max,Home Decor,21.8,1,21.8,Zachary Wilson,8/4/2023,18%,South
+2830,Deep Max,Apparel,35.17,1,35.17,Jason Ramirez,10/2/2024,,East
+2831,Must Plus,Electronics,392.3,,,,2/23/2024,14%,North
+2832,Tv Pro,Apparel,19.99,1,19.99,Matthew Baldwin,5/3/2023,,South
+2833,Responsibility Plus,Furniture,124.37,3,373.11,Kathleen Mason,11/13/2023,None,East
+2834,Staff Lite,Furniture,828.57,2,1657.14,7846,11/12/2024,None,West
+2835,Wonder Plus,Apparel,29.98,3,89.94,Connie Adams,8/31/2024,0%,South
+2836,Run Plus,Home Decor,15.4,3,46.2,Brandy Johnson,3/2/2023,,
+2837,Fall Max,Sports,95.14,2,190.28,Brooke Thompson,9/10/2023,,
+2838,Network Pro,Furniture,133.57,,,Michael Ball,12/24/2022,5%,West
+2839,Politics Pro,Sports,249.77,1,249.77,Tricia Robinson,10/10/2024,25%,North
+2840,Race Lite,Furniture,604.18,1,604.18,Sandra Rose,6/1/2023,None,West
+2841,Watch Classic,Electronics,144.25,3,432.75,Mitchell Cabrera,1/27/2023,None,East
+2842,Still Classic,Furniture,375.74,4,1502.96,Joseph Johnson,6/16/2024,,North
+2843,White Plus,Electronics,406.04,,,Michael Baldwin,12/10/2022,None,East
+2844,For Lite,Furniture,453.7,,,Gerald Zimmerman,4/24/2024,None,West
+2845,Baby Pro,Home Decor,162.64,2,325.28,2419,4/3/2024,None,North
+2846,Next Lite,Home Decor,123.77,2,247.54,Connie Wang DDS,6/26/2023,None,North
+2847,Interview Classic,Sports,-18.52,3,55.56,,11/17/2023,None,West
+2848,Scientist Classic,Electronics,175.43,3,526.29,Bradley Thompson,1/23/2024,None,East
+2849,Answer Pro,Sports,35.16,3,105.48,Grant Foster,Invalid,15%,South
+2850,Article Plus,Sports,200.96,1,200.96,Darius Doyle,8/4/2024,17%,North
+2851,Coach Lite,Electronics,148.08,4,592.32,Stephanie Owen,3/9/2023,None,North
+2852,Make Lite,Electronics,350,,,Gina Leonard,7/27/2023,5%,West
+2853,Science Plus,Electronics,145.62,4,582.48,Devin Hardy,11/8/2023,None,West
+2854,American Pro,Sports,182.72,2,365.44,,11/28/2023,None,East
+2855,Energy Lite,Furniture,303.87,2,607.74,David Weaver,7/17/2023,None,South
+2856,Expert Lite,Home Decor,128.4,2,256.8,Michael Hayes,3/11/2023,12%,West
+2857,Fine Pro,Sports,233.94,4,935.76,Mark Jackson,1/8/2023,24%,East
+2858,Red Classic,Sports,-83.97,2,167.94,4053,1/10/2023,,East
+2859,Threat Lite,Furniture,189.6,2,379.2,Eric Church,7/31/2024,28%,South
+2860,Affect Lite,Apparel,44.66,,,Melissa Klein,1/30/2023,23%,South
+2861,Then Classic,Home Decor,131.27,1,131.27,4289,9/20/2024,None,North
+2862,Determine Max,Home Decor,139.46,1,139.46,Jacob Benson,5/10/2023,,West
+2863,Edge Lite,Furniture,210.17,4,840.68,Cathy Kelly,12/26/2023,None,North
+2864,Six Plus,Sports,58.87,4,235.48,Manuel Petersen,8/1/2024,None,South
+2865,Nation Lite,Electronics,252.8,2,505.6,Phillip Bonilla,3/12/2023,,West
+2866,Community Max,Home Decor,94.32,2,188.64,Ryan Baxter,8/28/2024,None,East
+2867,Local Plus,Furniture,611.83,3,1835.49,John Smith,2/19/2024,None,East
+2868,Start Lite,Apparel,17.51,2,35.02,Breanna Hernandez,7/11/2024,30%,North
+2869,Also Max,Furniture,452.14,3,1356.42,Thomas Mcclure,Invalid,,North
+2870,Our Plus,Sports,287.3,,,Christopher Roach Jr.,12/22/2022,,West
+2871,Piece Classic,Furniture,984.2,,,Diamond Mason,11/21/2023,None,South
+2872,Although Pro,Electronics,325.81,2,651.62,Mallory Duarte,9/25/2023,,East
+2873,Product Classic,Home Decor,112.23,1,112.23,Joseph Anderson,11/8/2023,None,East
+2874,Perhaps Max,Electronics,130.01,1,130.01,Mercedes Smith,10/30/2023,4%,South
+2875,Southern Plus,Furniture,274.74,3,824.22,Paul Davidson,2/22/2024,9%,East
+2876,Will Pro,Electronics,424.03,,,,12/18/2023,16%,East
+2877,Window Plus,Home Decor,135.59,2,271.18,Selena Gomez,6/15/2024,,West
+2878,Summer Lite,Sports,111.8,1,111.8,,7/14/2024,8%,East
+2879,Wife Plus,Furniture,-383.78,,,Stephanie Guerrero MD,4/3/2023,6%,
+2880,If Plus,Furniture,758.32,3,2274.96,Alexander Whitney,3/8/2023,None,East
+2881,Beyond Pro,Apparel,39.76,1,39.76,Monica Garcia,8/22/2024,None,East
+2882,Mouth Lite,Home Decor,54.07,2,108.14,Jessica Mays,12/11/2023,7%,West
+2883,Position Lite,Furniture,-167,3,501,Rodney Williams,11/29/2023,,West
+2884,East Plus,Furniture,196.7,,,Mckenzie Torres,3/16/2023,None,South
+2885,Garden Plus,Furniture,588.13,1,588.13,Amy Mahoney,10/1/2023,,
+2886,Growth Classic,Electronics,454.27,1,454.27,Misty Ross,1/24/2023,5%,North
+2887,Water Pro,Home Decor,28.34,4,113.36,Olivia Gonzalez,12/14/2023,,West
+2888,Cause Pro,Sports,286.93,2,573.86,Kimberly Robertson,8/4/2023,,South
+2889,Week Classic,Apparel,-34.36,2,68.72,,7/4/2024,,East
+2890,Hair Classic,Apparel,44.7,3,134.1,Peter Rubio,8/24/2024,,West
+2891,Establish Pro,Electronics,158.83,,,Eric Baker,11/15/2024,29%,North
+2892,Seven Pro,Sports,50.08,,,Savannah Guerrero,4/16/2023,0%,South
+2893,Sister Classic,Furniture,832.28,2,1664.56,Dr. Samantha Williams MD,4/27/2023,21%,West
+2894,Onto Plus,Apparel,38.5,,,Daniel Lee,8/12/2024,,East
+2895,Determine Pro,Sports,40.85,2,81.7,Alyssa Banks,12/2/2023,,South
+2896,Term Lite,Apparel,10.53,,,1656,1/26/2024,,North
+2897,While Classic,Home Decor,53.26,2,106.52,Michael Hernandez,12/31/2022,,East
+2898,College Plus,Apparel,29.75,1,29.75,Jacob Holland,3/22/2024,3%,West
+2899,Defense Lite,Sports,256.93,2,513.86,Ricardo Gutierrez,7/15/2023,,West
+2900,Friend Plus,Furniture,344,2,688,Bryan Phillips,8/21/2023,None,West
+2901,Maintain Lite,Electronics,274.99,4,1099.96,Dawn Martin,10/22/2023,14%,West
+2902,Worker Pro,Electronics,474.94,,,Patricia Key,12/6/2023,2%,North
+2903,More Max,Home Decor,158.36,1,158.36,Christie King,3/27/2023,,West
+2904,Data Classic,Home Decor,24.13,3,72.39,Kaitlin Garza,5/25/2023,15%,North
+2905,Item Plus,Electronics,77.21,4,308.84,Aaron Schneider,12/20/2022,,West
+2906,Family Lite,Electronics,424.05,2,848.1,Gina Myers,3/1/2024,16%,West
+2907,But Max,Apparel,34.8,3,104.4,Jessica Martinez,7/30/2024,,East
+2908,High Plus,Electronics,472.49,,,Derek Fischer,9/14/2023,None,North
+2909,Whether Max,Sports,239.5,,,Sarah Wagner,2/24/2023,None,
+2910,Smile Lite,Home Decor,136.24,3,408.72,Paul Hill,7/14/2023,4%,East
+2911,Yeah Classic,Apparel,41.77,3,125.31,Michael Sanchez,1/13/2023,None,North
+2912,Place Pro,Furniture,121.56,,,Samantha Bell,4/1/2023,None,East
+2913,Performance Lite,Electronics,-257.29,,,Colin Schwartz,11/23/2023,22%,East
+2914,Professional Pro,Apparel,43.57,3,130.71,Patricia Davis,Invalid,,East
+2915,Why Max,Apparel,13.17,3,39.51,Angela Ryan,7/16/2024,None,North
+2916,Industry Pro,Apparel,46.21,,,Christopher Cain,5/1/2023,,South
+2917,Notice Max,Furniture,584.16,,,Eric Baldwin,2/19/2023,,West
+2918,Within Pro,Home Decor,137.89,,,9968,4/19/2024,10%,North
+2919,Recently Classic,Sports,269.09,,,Robert Brooks,10/17/2023,,South
+2920,Certain Max,Sports,108.61,,,Monique Clements,1/31/2023,,West
+2921,Election Classic,Apparel,11.65,,,Daniel Romero,3/20/2023,None,North
+2922,Center Max,Apparel,11.55,3,34.65,Keith Henderson,5/2/2024,,West
+2923,Country Pro,Furniture,699.02,3,2097.06,Michael Fuentes,7/24/2023,None,South
+2924,Bed Max,Home Decor,97.4,2,194.8,Andrea Gonzalez,12/6/2023,,West
+2925,Building Plus,Apparel,36.12,,,Derrick Davis,4/8/2024,None,East
+2926,Factor Plus,Sports,272.83,,,Cynthia Meyer,7/18/2023,None,East
+2927,Crime Lite,Furniture,302.08,4,1208.32,9211,3/1/2023,None,West
+2928,Meet Lite,Furniture,568.27,1,568.27,Kelly Whitehead,1/2/2023,None,North
+2929,Interest Classic,Apparel,41.37,4,165.48,1815,1/19/2023,None,North
+2930,Big Pro,Sports,112.91,4,451.64,David Herrera,3/11/2023,,South
+2931,Leg Lite,Electronics,74.24,,,7751,11/6/2024,,South
+2932,Reveal Plus,Electronics,171.63,4,686.52,,9/4/2024,,South
+2933,Station Max,Apparel,42.7,2,85.4,Desiree Wang,7/6/2024,,East
+2934,High Max,Furniture,135.15,3,405.45,Dawn Rogers,8/8/2023,17%,West
+2935,Enter Pro,Sports,145.07,,,9458,4/15/2024,None,West
+2936,Newspaper Max,Electronics,241.21,2,482.42,Katherine Peters,5/28/2024,None,South
+2937,Realize Plus,Apparel,41.94,1,41.94,Brian Willis,8/6/2024,3%,West
+2938,Friend Max,Home Decor,106.81,2,382.52,Juan Harris,11/13/2023,,East
+2939,Eight Max,Apparel,14.53,1,14.53,3263,3/8/2023,3%,East
+2940,Since Max,Sports,170,,,Dr. James Hopkins,1/27/2024,5%,East
+2941,Day Pro,Electronics,447.43,3,1342.29,Thomas Kent,8/17/2024,,North
+2942,Dinner Plus,Sports,-210.97,4,843.88,Patricia Lowe,8/21/2024,,West
+2943,Turn Max,Sports,177.39,4,709.56,Matthew Estrada,1/16/2024,,West
+2944,Turn Plus,Sports,51.64,,,Adrian Levy,3/13/2024,,East
+2945,Personal Max,Electronics,80.65,3,241.95,9054,10/12/2023,,South
+2946,His Pro,Furniture,121.61,4,486.44,Jennifer Torres,Invalid,None,North
+2947,Opportunity Max,Apparel,-26.16,1,26.16,Gregory Schmidt,1/9/2023,26%,South
+2948,Significant Max,Sports,278.93,3,836.79,6126,Invalid,,North
+2949,Practice Lite,Apparel,49.94,4,199.76,Lisa Kane,11/9/2023,None,South
+2950,Design Max,Electronics,213.81,1,213.81,David Moore,3/22/2023,26%,West
+2951,Network Classic,Sports,190.97,1,190.97,Katherine Klein,8/14/2024,None,East
+2952,Audience Max,Apparel,35.04,1,35.04,Jenna Jones,9/5/2024,None,East
+2953,Television Max,Sports,205.16,2,410.32,,10/15/2023,13%,East
+2954,Strategy Pro,Home Decor,127.36,1,127.36,Cesar Johnson,12/29/2023,None,East
+2955,Call Plus,Sports,24.38,1,24.38,Danielle Rodriguez,Invalid,,North
+2956,Despite Classic,Furniture,173.38,2,346.76,Michele Daugherty PhD,8/20/2024,None,East
+2957,Four Plus,Furniture,604.22,2,1208.44,Ronnie Williams,6/1/2023,None,North
+2958,Win Plus,Furniture,306.82,2,613.64,Randall Brown,Invalid,13%,South
+2959,Pretty Lite,Apparel,14.9,,,Alexis Taylor,5/25/2024,,East
+2960,Worry Pro,Home Decor,111.38,1,111.38,Scott Carr,3/5/2024,14%,West
+2961,Always Classic,Home Decor,82.78,1,82.78,Larry Carlson,7/31/2023,21%,West
+2962,Lawyer Classic,Furniture,679.77,1,679.77,Daniel Green,11/4/2023,None,South
+2963,Republican Lite,Electronics,390.43,2,780.86,8246,11/30/2023,29%,North
+2964,Sometimes Plus,Apparel,17.87,1,17.87,Jeffrey Salazar,Invalid,None,East
+2965,Technology Pro,Sports,268.62,3,805.86,Jeremiah Miller,2/26/2024,None,West
+2966,Star Pro,Furniture,153.4,3,460.2,Jonathan Marquez,11/5/2024,,North
+2967,Election Plus,Electronics,323.72,1,323.72,Amy Nelson,11/5/2023,,South
+2968,Child Lite,Apparel,10.89,,,,8/7/2023,22%,West
+2969,Threat Max,Sports,280.59,,,John Bailey,4/21/2023,2%,South
+2970,Business Classic,Home Decor,11.65,3,34.95,Laura Shannon,6/15/2023,,East
+2971,Same Classic,Apparel,35.65,1,35.65,Deanna Owens,11/19/2023,,North
+2972,Public Max,Electronics,480.71,,,Andrew Pierce,2/18/2024,None,North
+2973,True Lite,Furniture,941.3,4,3765.2,Janet Jones,7/26/2023,,West
+2974,Between Classic,Apparel,19.75,,,Jennifer Fuller,12/6/2023,24%,East
+2975,Lay Max,Apparel,-33.35,,,James Stone,6/21/2024,,East
+2976,Picture Max,Sports,273.43,,,1731,7/11/2023,28%,North
+2977,Here Classic,Sports,245.44,,,,6/27/2023,8%,East
+2978,Oil Lite,Sports,130.36,2,260.72,Joseph Patterson,12/22/2022,None,East
+2979,Expert Lite,Home Decor,107.11,1,107.11,Thomas Wilson,1/31/2024,25%,East
+2980,Whether Plus,Sports,211.98,4,847.92,Sandra Bright,2/9/2023,6%,East
+2981,Learn Plus,Electronics,170.74,4,682.96,Angela Hudson,Invalid,None,North
+2982,Front Lite,Furniture,54.79,3,164.37,Monica Anderson,9/4/2024,,South
+2983,Tree Lite,Sports,172.99,,,Leslie White,11/11/2024,None,West
+2984,Agree Plus,Sports,228,1,228,Lisa Harris,9/20/2024,16%,East
+2985,White Lite,Sports,48.67,4,194.68,Brenda Reid,3/19/2024,None,South
+2986,Ball Lite,Home Decor,183.54,2,367.08,Brittany Jenkins,10/4/2023,None,East
+2987,Friend Lite,Apparel,44.13,3,132.39,Gloria Robertson,11/23/2023,None,North
+2988,Pass Lite,Apparel,41.45,2,82.9,Shannon Garcia,2/14/2024,None,North
+2989,Drug Max,Furniture,431.28,3,1293.84,Elaine Schmidt,2/26/2023,14%,East
+2990,Use Max,Furniture,516.17,1,516.17,,10/12/2023,,North
+2991,Wide Lite,Sports,101.03,2,202.06,Wendy Mathis,2/6/2023,,
+2992,Whole Lite,Furniture,965.13,4,3860.52,James Choi,6/18/2024,2%,East
+2993,Glass Plus,Electronics,352.93,4,1411.72,Wesley Brown,5/18/2024,None,West
+2994,Feeling Lite,Apparel,24.94,,,Connie Mccarthy,8/15/2023,28%,South
+2995,Industry Pro,Sports,159.36,1,159.36,Miranda Acevedo,7/2/2023,29%,North
+2996,Consider Classic,Sports,106.97,1,106.97,Cynthia Freeman,5/11/2024,None,East
+2997,Lay Pro,Apparel,41.61,2,83.22,Robin Simpson,8/22/2023,None,East
+2998,Field Lite,Furniture,906.29,1,906.29,Felicia Boyd,3/12/2024,,North
+2999,Against Classic,Furniture,337.8,,,Deanna Villa,2/26/2024,None,West
