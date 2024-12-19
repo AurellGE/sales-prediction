@@ -22,7 +22,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2020,Condition Pro,Furniture,223.87,3,671.61,Joshua Ramirez,2024-02-13,0%,South,2,2024
 2021,Style Plus,Sports,152.81,3,458.43,Customer 3,2024-01-21,2%,West,1,2024
 2022,Employee Lite,Home Decor,170.18,2,340.36,Cynthia Johnson,2024-04-23,18%,North,4,2024
-2023,Believe Max,Apparel,22.8,1,22.8,Brandon Wang,Invalid Date,0%,West,<NA>,<NA>
+2023,Believe Max,Apparel,22.8,1,22.8,Brandon Wang,Invalid Date,0%,West,Invalid Date,Invalid Date
 2024,After Max,Home Decor,74.55,3,223.65,Brandon Andersen,2023-09-10,14%,North,9,2023
 2025,Investment Classic,Home Decor,81.33,2,162.66,Sarah Kelley,2024-02-07,0%,South,2,2024
 2026,Well Max,Home Decor,127.07,4,508.28,Customer 4,2023-03-27,0%,North,3,2023
@@ -30,7 +30,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2028,Wonder Plus,Sports,85.46,4,341.84,Amanda Jackson,2023-05-16,0%,West,5,2023
 2029,Remain Plus,Apparel,32.46,2,64.92,Brittney Taylor,2023-02-23,3%,East,2,2023
 2030,Ok Max,Furniture,225.67,2,451.34,Roy Martinez,2024-08-19,19%,West,8,2024
-2031,Well Pro,Apparel,40.92,4,163.68,Mathew Martinez,Invalid Date,0%,North,<NA>,<NA>
+2031,Well Pro,Apparel,40.92,4,163.68,Mathew Martinez,Invalid Date,0%,North,Invalid Date,Invalid Date
 2032,Weight Pro,Furniture,433.18,3,1299.54,Juan Vance,2024-02-17,0%,North,2,2024
 2033,Author Plus,Electronics,63.59,3,190.77,Jeanne Moses,2023-03-17,0%,East,3,2023
 2034,Three Pro,Apparel,41.31,2,82.62,Amy Taylor,2024-10-04,16%,East,10,2024
@@ -38,7 +38,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2036,Process Plus,Sports,234.24,1,234.24,Joy Lee,2024-01-23,28%,East,1,2024
 2037,Near Lite,Electronics,106.25,4,425.0,Customer 5,2024-11-24,0%,North,11,2024
 2038,Create Pro,Home Decor,75.57,2,151.14,Sophia Williams,2024-09-01,0%,East,9,2024
-2039,Collection Pro,Furniture,850.48,3,2551.44,Henry Heath,Invalid Date,0%,West,<NA>,<NA>
+2039,Collection Pro,Furniture,850.48,3,2551.44,Henry Heath,Invalid Date,0%,West,Invalid Date,Invalid Date
 2040,Find Max,Home Decor,121.23,2,242.46,Heidi Huff,2023-05-04,26%,South,5,2023
 2041,If Plus,Apparel,11.52,4,46.08,Shirley Galloway,2024-07-25,0%,West,7,2024
 2042,Well Plus,Apparel,22.3,3,66.9,Todd Rodriguez,2024-09-12,0%,East,9,2024
@@ -49,7 +49,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2047,Good Lite,Electronics,182.99,3,548.97,Tina Camacho,2023-09-24,0%,West,9,2023
 2048,Open Pro,Sports,205.85,1,205.85,Matthew Rivers,2023-03-25,17%,South,3,2023
 2049,Condition Pro,Furniture,609.28,3,1827.84,Joe Miller,2024-01-05,0%,West,1,2024
-2050,Art Pro,Electronics,226.21,1,226.21,Laurie Little,Invalid Date,3%,East,<NA>,<NA>
+2050,Art Pro,Electronics,226.21,1,226.21,Laurie Little,Invalid Date,3%,East,Invalid Date,Invalid Date
 2051,Mention Lite,Apparel,19.76,3,59.28,Customer 6,2023-07-28,0%,South,7,2023
 2052,Candidate Pro,Sports,161.35,2,322.7,David Gibbs,2024-07-24,20%,West,7,2024
 2053,Room Max,Electronics,404.12,2,808.24,Eric Newman,2024-03-24,0%,South,3,2024
@@ -105,7 +105,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2103,Look Lite,Apparel,39.0,3,117.0,Emily Humphrey,2023-04-02,13%,East,4,2023
 2104,Land Lite,Apparel,36.03,2,72.06,William Jackson,2023-05-11,0%,South,5,2023
 2105,Upon Classic,Home Decor,12.12,3,36.36,Jessica Hunter,2024-09-05,0%,North,9,2024
-2106,Into Lite,Electronics,388.1,3,1164.3000000000002,Customer 10,Invalid Date,0%,West,<NA>,<NA>
+2106,Into Lite,Electronics,388.1,3,1164.3000000000002,Customer 10,Invalid Date,0%,West,Invalid Date,Invalid Date
 2107,Live Classic,Furniture,816.83,3,2450.4900000000002,Jason Soto,2023-03-06,0%,West,3,2023
 2108,A Classic,Furniture,111.47,3,334.40999999999997,Mark Carrillo,2024-05-02,21%,South,5,2024
 2109,Different Max,Furniture,669.2,3,2007.6000000000001,Troy Esparza,2023-11-03,0%,South,11,2023
@@ -115,7 +115,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2113,Street Plus,Furniture,398.0,2,796.0,Justin Guerrero,2024-09-07,0%,East,9,2024
 2114,Order Lite,Apparel,15.32,4,61.28,Crystal Rodriguez,2022-12-25,0%,North,12,2022
 2115,Stay Pro,Home Decor,174.73,1,174.73,Amy Moreno,2024-11-30,0%,East,11,2024
-2116,Single Classic,Home Decor,365.43,2,730.86,Bruce Hall,Invalid Date,0%,North,<NA>,<NA>
+2116,Single Classic,Home Decor,365.43,2,730.86,Bruce Hall,Invalid Date,0%,North,Invalid Date,Invalid Date
 2117,Evening Classic,Home Decor,34.56,2,69.12,Customer 11,2023-01-26,0%,South,1,2023
 2118,Total Pro,Electronics,392.76,4,1571.04,Donna Mullins,2023-03-29,0%,South,3,2023
 2119,Seem Max,Furniture,733.28,1,733.28,Kevin Rodriguez,2023-02-11,29%,South,2,2023
@@ -142,7 +142,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2140,Operation Classic,Electronics,242.64,2,485.28,Ashley Flynn,2023-01-17,0%,North,1,2023
 2141,Key Pro,Sports,216.14,4,864.56,Mark Williams,2023-07-05,3%,North,7,2023
 2142,Wish Lite,Sports,113.72,3,341.16,Kevin Rodgers,2024-06-04,0%,North,6,2024
-2143,The Classic,Apparel,28.49,4,113.96,Aaron West,Invalid Date,0%,South,<NA>,<NA>
+2143,The Classic,Apparel,28.49,4,113.96,Aaron West,Invalid Date,0%,South,Invalid Date,Invalid Date
 2144,Very Pro,Electronics,113.77,3,341.31,Andrea Baker,2024-06-16,14%,East,6,2024
 2145,Including Pro,Home Decor,66.27,4,265.08,Amanda Tucker,2023-05-23,0%,South,5,2023
 2146,Enjoy Classic,Sports,114.34,3,343.02,Heather Hernandez,2023-01-05,0%,East,1,2023
@@ -158,8 +158,8 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2156,Special Lite,Furniture,608.09,3,1824.27,Jerry Johnson,2024-05-14,15%,East,5,2024
 2157,High Pro,Sports,132.86,1,132.86,George Callahan,2023-08-03,0%,North,8,2023
 2158,Property Pro,Electronics,305.12,1,305.12,Donald Cruz,2024-01-09,3%,South,1,2024
-2159,State Lite,Home Decor,116.34,4,465.36,Benjamin Nelson MD,Invalid Date,0%,South,<NA>,<NA>
-2160,Agreement Max,Home Decor,56.27,1,56.27,Jamie Sanders,Invalid Date,0%,North,<NA>,<NA>
+2159,State Lite,Home Decor,116.34,4,465.36,Benjamin Nelson MD,Invalid Date,0%,South,Invalid Date,Invalid Date
+2160,Agreement Max,Home Decor,56.27,1,56.27,Jamie Sanders,Invalid Date,0%,North,Invalid Date,Invalid Date
 2161,As Classic,Apparel,64.12,1,64.12,Customer 16,2024-06-10,0%,South,6,2024
 2162,Doctor Max,Apparel,13.4,2,26.8,John Garcia,2024-04-12,1%,West,4,2024
 2163,Resource Plus,Apparel,37.99,2,75.98,Jamie Mcdaniel,2022-12-18,0%,North,12,2022
@@ -168,7 +168,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2166,Physical Plus,Electronics,377.15,2,754.3,Sarah Johns,2023-11-22,6%,West,11,2023
 2167,Information Classic,Furniture,199.58,3,598.74,Tara Berry,2023-11-07,0%,East,11,2023
 2168,Break Classic,Furniture,575.76,1,575.76,Melissa Larson,2022-12-24,0%,East,12,2022
-2169,Million Lite,Apparel,31.46,2,62.92,Brianna Zavala,Invalid Date,28%,West,<NA>,<NA>
+2169,Million Lite,Apparel,31.46,2,62.92,Brianna Zavala,Invalid Date,28%,West,Invalid Date,Invalid Date
 2170,Market Lite,Electronics,92.42,4,369.68,Customer 18,2024-07-31,0%,North,7,2024
 2171,Watch Classic,Apparel,12.24,4,48.96,Sarah Reid,2023-07-05,6%,North,7,2023
 2172,Discussion Max,Furniture,998.43,3,2995.29,Jeremiah Miller,2024-04-25,0%,East,4,2024
@@ -184,7 +184,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2182,His Plus,Sports,68.91,4,275.64,Jonathan Kelly,2023-06-15,4%,West,6,2023
 2183,Far Pro,Apparel,40.8,1,40.8,Gregory Williams,2023-06-19,17%,North,6,2023
 2184,Look Max,Apparel,41.42,2,82.84,Vincent Taylor,2024-09-11,0%,East,9,2024
-2185,Wait Classic,Home Decor,70.07,1,70.07,Angie West,Invalid Date,16%,North,<NA>,<NA>
+2185,Wait Classic,Home Decor,70.07,1,70.07,Angie West,Invalid Date,16%,North,Invalid Date,Invalid Date
 2186,Nothing Plus,Furniture,841.84,1,841.84,Customer 20,2023-12-25,0%,West,12,2023
 2187,Range Max,Apparel,17.1,2,34.2,Nicole Brown,2024-08-17,0%,East,8,2024
 2188,Matter Lite,Home Decor,162.42,2,324.84,Sue Reyes,2023-06-19,0%,North,6,2023
@@ -206,7 +206,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2204,Girl Max,Apparel,36.56,4,146.24,Lynn Griffin,2024-12-01,13%,South,12,2024
 2205,Bag Pro,Home Decor,82.91,4,331.64,Mr. David Lowe,2024-08-11,0%,East,8,2024
 2206,Without Classic,Furniture,140.58,2,281.16,Ryan Williams,2023-06-03,0%,East,6,2023
-2207,Chance Max,Furniture,171.75,2,343.5,Elizabeth Alexander,Invalid Date,0%,North,<NA>,<NA>
+2207,Chance Max,Furniture,171.75,2,343.5,Elizabeth Alexander,Invalid Date,0%,North,Invalid Date,Invalid Date
 2208,Course Lite,Home Decor,40.08,2,80.16,Karen Davis,2023-05-02,26%,West,5,2023
 2209,Choose Plus,Furniture,708.18,2,1416.36,John Salinas,2024-02-13,0%,North,2,2024
 2210,Rich Lite,Furniture,777.28,4,3109.12,William Mitchell,2024-11-11,16%,West,11,2024
@@ -253,7 +253,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2251,May Max,Furniture,244.39,3,733.17,Tina Arnold,2024-11-18,0%,East,11,2024
 2252,She Lite,Sports,84.16,3,252.48,Thomas Cantrell,2023-06-05,16%,West,6,2023
 2253,Vote Pro,Sports,246.85,3,740.55,Customer 27,2024-03-18,27%,West,3,2024
-2254,Way Max,Sports,66.67,2,133.34,Gail Fuller,Invalid Date,0%,West,<NA>,<NA>
+2254,Way Max,Sports,66.67,2,133.34,Gail Fuller,Invalid Date,0%,West,Invalid Date,Invalid Date
 2255,Serious Classic,Home Decor,9.93,2,19.86,Kaitlyn Alexander,2024-09-11,0%,East,9,2024
 2256,Cut Max,Sports,110.15,1,110.15,Thomas Jones,2023-04-15,0%,South,4,2023
 2257,Moment Classic,Furniture,877.01,2,1754.02,Lisa Wang,2023-06-22,0%,West,6,2023
@@ -282,7 +282,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2280,Ever Lite,Electronics,280.4,1,280.4,David Castillo,2023-03-31,28%,West,3,2023
 2281,Girl Plus,Furniture,122.95,3,368.85,Lisa Harris,2023-11-08,0%,East,11,2023
 2282,Join Max,Furniture,958.75,1,958.75,Tara Butler,2023-06-21,0%,East,6,2023
-2283,Song Classic,Electronics,243.69,2,487.38,Jonathan Watson,Invalid Date,0%,North,<NA>,<NA>
+2283,Song Classic,Electronics,243.69,2,487.38,Jonathan Watson,Invalid Date,0%,North,Invalid Date,Invalid Date
 2284,Almost Lite,Furniture,444.19,3,1332.57,Spencer Mcmahon,2023-12-24,0%,West,12,2023
 2285,Kitchen Plus,Apparel,47.7,4,190.8,Ryan Fowler,2023-01-04,0%,South,1,2023
 2286,Start Pro,Electronics,313.79,3,941.3700000000001,Keith Shepard,2023-11-13,0%,West,11,2023
@@ -351,12 +351,12 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2349,Old Classic,Furniture,391.88,4,1567.52,Michael Johnson,2023-01-03,20%,East,1,2023
 2350,Cost Max,Electronics,173.96,2,347.92,Lori Edwards,2024-05-02,0%,East,5,2024
 2351,Agency Plus,Apparel,36.84,3,110.52,Stephen Sharp,2023-12-13,26%,South,12,2023
-2352,Art Lite,Home Decor,68.01,1,68.01,Garrett Fowler,Invalid Date,11%,South,<NA>,<NA>
-2353,Serve Lite,Home Decor,130.2,4,520.8,Melanie Jones,Invalid Date,0%,West,<NA>,<NA>
+2352,Art Lite,Home Decor,68.01,1,68.01,Garrett Fowler,Invalid Date,11%,South,Invalid Date,Invalid Date
+2353,Serve Lite,Home Decor,130.2,4,520.8,Melanie Jones,Invalid Date,0%,West,Invalid Date,Invalid Date
 2354,Forward Plus,Furniture,687.94,1,687.94,Miss Amy Gomez,2024-05-25,0%,West,5,2024
 2355,Collection Lite,Electronics,153.89,4,615.56,Jason Thomas,2023-11-04,0%,South,11,2023
 2356,Population Plus,Furniture,279.62,3,838.86,Samuel Garcia,2023-06-01,0%,North,6,2023
-2357,Country Max,Electronics,206.37,4,825.48,Jeffrey Jones,Invalid Date,0%,West,<NA>,<NA>
+2357,Country Max,Electronics,206.37,4,825.48,Jeffrey Jones,Invalid Date,0%,West,Invalid Date,Invalid Date
 2358,Doctor Classic,Furniture,306.48,3,919.44,Customer 36,2024-03-28,0%,West,3,2024
 2359,Increase Classic,Home Decor,56.28,2,112.56,Natasha Cardenas,2023-04-26,0%,South,4,2023
 2360,Six Plus,Apparel,16.03,3,48.09,Aimee Johnson,2023-06-17,0%,South,6,2023
@@ -397,13 +397,13 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2395,Stand Plus,Sports,177.95,2,355.9,Heather Stein,2023-01-01,0%,East,1,2023
 2396,West Classic,Apparel,46.51,1,46.51,Customer 40,2023-12-11,15%,North,12,2023
 2397,Generation Lite,Home Decor,36.16,4,144.64,Jonathan Davis,2023-02-02,22%,East,2,2023
-2398,Onto Classic,Furniture,460.73,2,921.46,Customer 41,Invalid Date,0%,South,<NA>,<NA>
+2398,Onto Classic,Furniture,460.73,2,921.46,Customer 41,Invalid Date,0%,South,Invalid Date,Invalid Date
 2399,Indicate Plus,Furniture,267.32,4,1069.28,Joshua Gonzalez,2024-07-02,0%,South,7,2024
 2400,Rock Plus,Electronics,149.9,3,449.70000000000005,Customer 42,2022-12-23,0%,East,12,2022
 2401,Themselves Max,Apparel,31.64,2,63.28,Tara Wilcox,2023-05-01,0%,South,5,2023
 2402,View Max,Furniture,633.76,1,633.76,Douglas Moran,2024-08-30,0%,South,8,2024
 2403,No Classic,Furniture,781.28,2,1562.56,Scott Sanchez,2023-01-11,0%,South,1,2023
-2404,Wife Lite,Furniture,390.34,4,1561.36,Holly Douglas,Invalid Date,7%,West,<NA>,<NA>
+2404,Wife Lite,Furniture,390.34,4,1561.36,Holly Douglas,Invalid Date,7%,West,Invalid Date,Invalid Date
 2405,Economy Classic,Home Decor,184.07,3,552.21,Lauren Thomas,2024-01-09,0%,North,1,2024
 2406,Forget Max,Sports,36.92,3,110.76,Ronald Delacruz,2024-06-18,0%,North,6,2024
 2407,Head Max,Home Decor,57.81,2,115.62,Jo Gibbs,2024-10-10,22%,West,10,2024
@@ -418,8 +418,8 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2416,Soldier Max,Sports,92.79,3,278.37,Daniel Roberts,2023-09-27,0%,South,9,2023
 2417,These Lite,Furniture,196.48,1,196.48,Elizabeth Freeman,2023-12-24,0%,South,12,2023
 2418,It Pro,Electronics,230.04,2,460.08,Kathleen Mason,2024-11-13,0%,North,11,2024
-2419,Executive Plus,Home Decor,98.76,1,98.76,Mary Scott,Invalid Date,4%,West,<NA>,<NA>
-2420,Probably Classic,Sports,291.23,2,582.46,Andrea Hamilton,Invalid Date,13%,North,<NA>,<NA>
+2419,Executive Plus,Home Decor,98.76,1,98.76,Mary Scott,Invalid Date,4%,West,Invalid Date,Invalid Date
+2420,Probably Classic,Sports,291.23,2,582.46,Andrea Hamilton,Invalid Date,13%,North,Invalid Date,Invalid Date
 2421,Civil Max,Electronics,154.94,3,464.82,Keith Pittman,2024-06-12,0%,North,6,2024
 2422,Imagine Max,Furniture,744.37,3,2233.11,Patrick Little,2024-06-10,19%,East,6,2024
 2423,Together Lite,Sports,130.55,3,391.65,Penny Bradley,2024-01-06,0%,North,1,2024
@@ -435,7 +435,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2433,Look Max,Electronics,323.38,2,646.76,Customer 47,2023-05-31,8%,North,5,2023
 2434,Fact Pro,Sports,291.89,2,583.78,David Williams,2023-05-19,0%,West,5,2023
 2435,Child Lite,Furniture,803.21,3,2409.63,Abigail Rogers,2023-04-13,0%,South,4,2023
-2436,At Classic,Apparel,22.12,1,22.12,Customer 48,Invalid Date,15%,North,<NA>,<NA>
+2436,At Classic,Apparel,22.12,1,22.12,Customer 48,Invalid Date,15%,North,Invalid Date,Invalid Date
 2437,Protect Classic,Home Decor,118.32,2,236.64,Sherri Osborn,2023-08-28,0%,South,8,2023
 2438,Big Plus,Sports,196.5,3,589.5,Sean Mendoza,2023-05-03,28%,East,5,2023
 2439,Wall Lite,Furniture,922.94,3,2768.82,Nicholas Hamilton,2024-09-18,0%,North,9,2024
@@ -489,7 +489,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2487,Establish Lite,Furniture,353.49,2,706.98,Tina Levy,2023-07-08,9%,North,7,2023
 2488,While Plus,Furniture,688.3,1,688.3,Mark Hunt,2023-12-19,0%,East,12,2023
 2489,Whether Lite,Furniture,279.87,3,839.61,Joseph Collins,2024-04-23,0%,North,4,2024
-2490,Evidence Lite,Sports,79.96,2,159.92,Nicole White,Invalid Date,22%,East,<NA>,<NA>
+2490,Evidence Lite,Sports,79.96,2,159.92,Nicole White,Invalid Date,22%,East,Invalid Date,Invalid Date
 2491,Personal Classic,Sports,281.82,3,845.46,Jonathon Soto,2023-06-12,0%,North,6,2023
 2492,Strategy Lite,Furniture,226.3,4,905.2,Katherine Davis,2024-01-12,13%,East,1,2024
 2493,Up Plus,Furniture,166.54,3,499.62,Casey Scott,2024-02-08,30%,South,2,2024
@@ -508,7 +508,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2506,Room Pro,Furniture,462.1,3,1386.3,Jacob Lee,2023-03-17,0%,North,3,2023
 2507,Occur Pro,Furniture,125.54,4,502.16,Dale Glass,2024-05-11,0%,West,5,2024
 2508,Top Max,Furniture,684.64,2,1369.28,Edward Wang,2023-09-29,19%,West,9,2023
-2509,Stay Lite,Sports,166.44,4,665.76,Kelli Mccullough,Invalid Date,0%,North,<NA>,<NA>
+2509,Stay Lite,Sports,166.44,4,665.76,Kelli Mccullough,Invalid Date,0%,North,Invalid Date,Invalid Date
 2510,Quite Lite,Home Decor,105.76,3,317.28000000000003,Timothy Mitchell,2023-03-06,3%,West,3,2023
 2511,Occur Max,Home Decor,75.97,2,151.94,Mary Ward,2023-07-09,0%,West,7,2023
 2512,Baby Pro,Electronics,114.39,3,343.17,Dr. Sean Vazquez,2024-08-10,0%,West,8,2024
@@ -533,7 +533,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2531,Cup Pro,Furniture,58.11,1,58.11,Karina Moore,2024-09-04,0%,West,9,2024
 2532,Involve Plus,Sports,110.52,4,442.08,Natasha Brown,2024-05-23,10%,North,5,2024
 2533,Late Classic,Furniture,885.56,2,1771.12,Charles Torres,2023-09-24,7%,North,9,2023
-2534,Science Classic,Home Decor,6.27,1,6.27,Virginia Griffith,Invalid Date,0%,North,<NA>,<NA>
+2534,Science Classic,Home Decor,6.27,1,6.27,Virginia Griffith,Invalid Date,0%,North,Invalid Date,Invalid Date
 2535,Ground Max,Electronics,243.32,2,486.64,Crystal Jones,2023-07-22,3%,East,7,2023
 2536,Agent Classic,Home Decor,187.06,3,561.1800000000001,Sandra Simon,2024-08-14,0%,East,8,2024
 2537,Weight Plus,Apparel,35.08,2,70.16,Michael Rodriguez,2023-03-06,0%,North,3,2023
@@ -552,15 +552,15 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2550,Tree Classic,Home Decor,133.07,4,532.28,Eric Bridges,2024-06-23,14%,West,6,2024
 2551,While Classic,Electronics,445.43,1,445.43,Dr. Courtney Taylor,2023-06-23,12%,South,6,2023
 2552,War Plus,Furniture,723.12,1,723.12,Jasmine Contreras,2024-11-26,15%,North,11,2024
-2553,Quite Plus,Sports,208.27,2,416.54,Patrick Watson,Invalid Date,0%,South,<NA>,<NA>
+2553,Quite Plus,Sports,208.27,2,416.54,Patrick Watson,Invalid Date,0%,South,Invalid Date,Invalid Date
 2554,Property Classic,Apparel,20.32,3,60.96,Kathryn Perry DDS,2024-03-19,0%,South,3,2024
 2555,Part Lite,Apparel,23.8,1,23.8,Bradley Olson,2023-07-23,4%,South,7,2023
 2556,Bit Plus,Sports,79.57,2,159.14,Mike Jenkins,2024-06-22,7%,North,6,2024
-2557,Fine Max,Apparel,19.72,2,39.44,Stephanie Alexander DVM,Invalid Date,0%,East,<NA>,<NA>
+2557,Fine Max,Apparel,19.72,2,39.44,Stephanie Alexander DVM,Invalid Date,0%,East,Invalid Date,Invalid Date
 2558,Cover Plus,Home Decor,87.07,4,348.28,Kaitlin Welch,2024-04-19,0%,North,4,2024
 2559,Network Pro,Home Decor,97.02,3,291.06,Amy Waters,2023-03-03,18%,East,3,2023
 2560,Time Max,Apparel,42.08,3,126.24,Kenneth Rodriguez,2024-08-04,26%,East,8,2024
-2561,Summer Max,Sports,254.59,2,509.18,Jose Gibson,Invalid Date,29%,East,<NA>,<NA>
+2561,Summer Max,Sports,254.59,2,509.18,Jose Gibson,Invalid Date,29%,East,Invalid Date,Invalid Date
 2562,Both Pro,Home Decor,81.04,1,81.04,Amanda Roth,2024-09-15,13%,South,9,2024
 2563,Each Plus,Home Decor,40.19,4,160.76,Brittany Alvarado,2023-10-30,0%,South,10,2023
 2564,Station Classic,Electronics,350.6,2,701.2,Kevin Rojas,2023-09-21,0%,North,9,2023
@@ -593,7 +593,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2591,Role Plus,Furniture,504.4,1,504.4,Sara Richards,2024-09-27,0%,North,9,2024
 2592,Personal Lite,Apparel,38.17,3,114.51,Customer 62,2023-04-23,0%,North,4,2023
 2593,Environment Plus,Apparel,41.93,4,167.72,Customer 63,2023-03-26,0%,West,3,2023
-2594,Stop Plus,Apparel,10.23,1,10.23,Leslie Ayers,Invalid Date,0%,North,<NA>,<NA>
+2594,Stop Plus,Apparel,10.23,1,10.23,Leslie Ayers,Invalid Date,0%,North,Invalid Date,Invalid Date
 2595,Eat Plus,Home Decor,73.12,2,146.24,Dale Thomas,2023-09-27,2%,South,9,2023
 2596,Far Lite,Electronics,31.89,4,127.56,Carol Thompson,2023-02-13,0%,East,2,2023
 2597,Purpose Pro,Furniture,683.1,3,2049.3,Customer 64,2024-04-09,26%,East,4,2024
@@ -603,20 +603,20 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2601,Always Max,Sports,117.39,4,469.56,Debbie Johnson,2023-02-22,0%,West,2,2023
 2602,Simple Classic,Apparel,39.45,4,157.8,Walter Brown,2023-04-22,0%,North,4,2023
 2603,Offer Plus,Apparel,11.36,1,11.36,Christy Hines,2023-01-14,0%,North,1,2023
-2604,Debate Plus,Furniture,182.03,4,728.12,Brian Green,Invalid Date,0%,South,<NA>,<NA>
+2604,Debate Plus,Furniture,182.03,4,728.12,Brian Green,Invalid Date,0%,South,Invalid Date,Invalid Date
 2605,Decision Max,Electronics,375.2,1,375.2,Robert Herrera,2024-09-12,0%,North,9,2024
 2606,Them Pro,Sports,76.01,2,152.02,James Graham,2024-06-08,0%,South,6,2024
 2607,Goal Max,Home Decor,97.74,3,293.22,Jennifer Diaz,2023-09-12,0%,South,9,2023
-2608,Little Classic,Home Decor,192.83,2,385.66,Lisa Cobb,Invalid Date,6%,West,<NA>,<NA>
+2608,Little Classic,Home Decor,192.83,2,385.66,Lisa Cobb,Invalid Date,6%,West,Invalid Date,Invalid Date
 2609,Year Lite,Furniture,590.45,3,1771.35,Ms. Christine Henderson,2024-05-31,0%,East,5,2024
 2610,Them Pro,Electronics,386.98,1,386.98,Carla Ramos,2024-04-03,0%,East,4,2024
 2611,Against Pro,Apparel,18.76,4,75.04,Paul Parks,2024-03-10,0%,North,3,2024
-2612,Land Max,Furniture,768.0,3,2304.0,Matthew Dixon,Invalid Date,0%,North,<NA>,<NA>
+2612,Land Max,Furniture,768.0,3,2304.0,Matthew Dixon,Invalid Date,0%,North,Invalid Date,Invalid Date
 2613,Nearly Pro,Electronics,65.54,3,196.62,Customer 65,2024-08-08,0%,South,8,2024
 2614,Attorney Pro,Electronics,317.83,1,317.83,Dawn Jackson,2023-07-13,0%,East,7,2023
 2615,Everyone Plus,Apparel,15.75,1,15.75,Kayla Bailey,2023-10-17,0%,East,10,2023
 2616,Stand Classic,Sports,43.97,4,175.88,Robert Frederick,2023-06-14,0%,East,6,2023
-2617,Part Max,Sports,294.94,3,884.82,Randy Dominguez,Invalid Date,0%,North,<NA>,<NA>
+2617,Part Max,Sports,294.94,3,884.82,Randy Dominguez,Invalid Date,0%,North,Invalid Date,Invalid Date
 2618,Box Plus,Furniture,400.7,3,1202.1,Michelle Walker,2023-03-14,0%,North,3,2023
 2619,Win Pro,Electronics,478.44,3,1435.32,Jonathan Acosta,2023-01-21,0%,East,1,2023
 2620,Theory Classic,Apparel,42.96,2,85.92,James Woods,2023-02-17,0%,East,2,2023
@@ -635,7 +635,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2633,Evening Pro,Sports,280.29,4,1121.16,Crystal Smith,2023-06-30,0%,North,6,2023
 2634,Above Pro,Home Decor,193.56,1,193.56,Bridget Sellers,2024-05-15,25%,East,5,2024
 2635,Take Plus,Home Decor,139.98,2,279.96,David Hamilton,2024-10-30,0%,South,10,2024
-2636,Break Max,Home Decor,21.15,2,42.3,Sarah Ruiz,Invalid Date,0%,South,<NA>,<NA>
+2636,Break Max,Home Decor,21.15,2,42.3,Sarah Ruiz,Invalid Date,0%,South,Invalid Date,Invalid Date
 2637,Set Plus,Sports,139.17,2,278.34,Kenneth Perez,2023-11-04,23%,North,11,2023
 2638,Politics Classic,Home Decor,17.57,1,17.57,Ann Lawrence,2024-07-02,0%,North,7,2024
 2639,Color Pro,Home Decor,141.94,2,283.88,Daniel Chapman,2024-02-03,29%,East,2,2024
@@ -696,7 +696,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2694,Take Pro,Furniture,902.38,2,1804.76,Walter Morton,2024-08-19,17%,West,8,2024
 2695,Detail Pro,Apparel,10.95,1,10.95,Roberta Cook,2022-12-15,0%,West,12,2022
 2696,Let Pro,Furniture,640.83,1,640.83,Shane Bowers,2022-12-07,13%,North,12,2022
-2697,Personal Pro,Apparel,35.73,1,35.73,Brittany Phillips,Invalid Date,0%,East,<NA>,<NA>
+2697,Personal Pro,Apparel,35.73,1,35.73,Brittany Phillips,Invalid Date,0%,East,Invalid Date,Invalid Date
 2698,Why Lite,Home Decor,98.24,3,294.72,Joshua Hughes,2023-04-24,0%,East,4,2023
 2699,Assume Pro,Sports,132.91,3,398.73,Melanie Soto,2024-03-30,0%,North,3,2024
 2700,However Pro,Sports,237.12,3,711.36,Benjamin Berg,2023-10-03,0%,East,10,2023
@@ -771,9 +771,9 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2769,Firm Lite,Furniture,272.36,4,1089.44,Jacob Hernandez,2023-10-20,0%,East,10,2023
 2770,West Lite,Furniture,893.9,3,2681.7,Kimberly Jones,2024-08-11,24%,West,8,2024
 2771,Popular Lite,Apparel,11.78,3,35.339999999999996,Kimberly Jordan,2023-09-05,0%,East,9,2023
-2772,Run Max,Sports,103.04,4,412.16,Customer 84,Invalid Date,3%,South,<NA>,<NA>
+2772,Run Max,Sports,103.04,4,412.16,Customer 84,Invalid Date,3%,South,Invalid Date,Invalid Date
 2773,Glass Classic,Furniture,480.43,2,960.86,Megan Spencer,2023-06-05,19%,North,6,2023
-2774,Contain Plus,Furniture,244.85,3,734.55,Aimee Schmitt,Invalid Date,0%,West,<NA>,<NA>
+2774,Contain Plus,Furniture,244.85,3,734.55,Aimee Schmitt,Invalid Date,0%,West,Invalid Date,Invalid Date
 2775,Any Max,Home Decor,197.46,4,789.84,Haley Tapia,2024-11-10,0%,South,11,2024
 2776,At Classic,Furniture,194.72,3,584.16,Isabel Soto,2023-07-04,0%,South,7,2023
 2777,East Plus,Apparel,47.85,2,95.7,Samantha Walker,2024-04-04,0%,South,4,2024
@@ -784,26 +784,26 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2782,Nation Max,Electronics,365.5,3,1096.5,Shannon Clark,2023-04-02,0%,East,4,2023
 2783,Lawyer Max,Furniture,836.45,1,836.45,Adrienne Price,2024-11-01,11%,East,11,2024
 2784,Still Classic,Home Decor,5.32,2,10.64,Patrick Jones,2023-04-21,0%,West,4,2023
-2785,Car Lite,Apparel,46.87,4,187.48,Becky Parker,Invalid Date,0%,West,<NA>,<NA>
+2785,Car Lite,Apparel,46.87,4,187.48,Becky Parker,Invalid Date,0%,West,Invalid Date,Invalid Date
 2786,West Pro,Electronics,232.51,3,697.53,Jason Dickson,2024-02-08,12%,East,2,2024
 2787,Better Classic,Furniture,189.37,2,378.74,Todd Blake,2024-08-27,0%,North,8,2024
 2788,Half Lite,Sports,286.76,2,573.52,Alexis Parker,2023-04-01,18%,East,4,2023
 2789,Bill Lite,Home Decor,181.1,3,543.3,Anne Olson,2022-12-06,0%,West,12,2022
-2790,Draw Plus,Apparel,20.66,2,41.32,Customer 86,Invalid Date,5%,West,<NA>,<NA>
+2790,Draw Plus,Apparel,20.66,2,41.32,Customer 86,Invalid Date,5%,West,Invalid Date,Invalid Date
 2791,Shake Max,Apparel,27.0,3,81.0,Jackie Dixon,2024-02-16,0%,North,2,2024
 2792,Leave Max,Furniture,953.4,4,3813.6,Kimberly Gentry,2024-05-28,0%,South,5,2024
-2793,Exist Max,Apparel,22.73,2,45.46,David Rodgers,Invalid Date,0%,East,<NA>,<NA>
+2793,Exist Max,Apparel,22.73,2,45.46,David Rodgers,Invalid Date,0%,East,Invalid Date,Invalid Date
 2794,Beyond Max,Electronics,314.27,4,1257.08,Patrick Silva,2024-01-20,0%,West,1,2024
 2795,Effect Max,Electronics,96.32,1,96.32,Mark Newman,2024-06-17,0%,East,6,2024
 2796,Bar Pro,Electronics,374.98,3,1124.94,Elizabeth Warren,2024-09-04,20%,East,9,2024
 2797,Arm Plus,Sports,248.79,3,746.37,Amy Woods,2023-06-14,0%,East,6,2023
 2798,Coach Lite,Apparel,14.63,4,58.52,Andre Wong,2024-02-03,0%,East,2,2024
 2799,Beat Plus,Home Decor,98.68,3,296.04,Customer 87,2024-02-29,24%,West,2,2024
-2800,None Classic,Apparel,21.06,2,42.12,Brandon Mosley,Invalid Date,0%,East,<NA>,<NA>
+2800,None Classic,Apparel,21.06,2,42.12,Brandon Mosley,Invalid Date,0%,East,Invalid Date,Invalid Date
 2801,Until Plus,Electronics,425.01,2,850.02,Michael Lee,2024-11-11,0%,East,11,2024
 2802,Culture Lite,Apparel,23.15,3,69.44999999999999,Jennifer Miller,2023-08-16,0%,East,8,2023
 2803,Voice Max,Sports,299.43,2,598.86,Margaret Miller,2024-11-30,0%,East,11,2024
-2804,Happen Max,Electronics,63.4,2,126.8,Isaiah Davis,Invalid Date,17%,East,<NA>,<NA>
+2804,Happen Max,Electronics,63.4,2,126.8,Isaiah Davis,Invalid Date,17%,East,Invalid Date,Invalid Date
 2805,Leg Lite,Electronics,364.88,4,1459.52,Customer 88,2024-06-10,0%,North,6,2024
 2806,Service Pro,Home Decor,75.03,1,75.03,Tony Marshall,2023-11-25,0%,South,11,2023
 2807,Television Pro,Apparel,40.8,3,122.4,Ryan Quinn,2023-03-12,0%,North,3,2023
@@ -848,7 +848,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2846,Next Lite,Home Decor,123.77,2,247.54,Connie Wang DDS,2023-06-26,0%,North,6,2023
 2847,Interview Classic,Sports,18.52,3,55.56,Customer 95,2023-11-17,0%,West,11,2023
 2848,Scientist Classic,Electronics,175.43,3,526.29,Bradley Thompson,2024-01-23,0%,East,1,2024
-2849,Answer Pro,Sports,35.16,3,105.48,Grant Foster,Invalid Date,15%,South,<NA>,<NA>
+2849,Answer Pro,Sports,35.16,3,105.48,Grant Foster,Invalid Date,15%,South,Invalid Date,Invalid Date
 2850,Article Plus,Sports,200.96,1,200.96,Darius Doyle,2024-08-04,17%,North,8,2024
 2851,Coach Lite,Electronics,148.08,4,592.32,Stephanie Owen,2023-03-09,0%,North,3,2023
 2852,Make Lite,Electronics,350.0,2,700.0,Gina Leonard,2023-07-27,5%,West,7,2023
@@ -868,7 +868,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2866,Community Max,Home Decor,94.32,2,188.64,Ryan Baxter,2024-08-28,0%,East,8,2024
 2867,Local Plus,Furniture,611.83,3,1835.49,John Smith,2024-02-19,0%,East,2,2024
 2868,Start Lite,Apparel,17.51,2,35.02,Breanna Hernandez,2024-07-11,30%,North,7,2024
-2869,Also Max,Furniture,452.14,3,1356.42,Thomas Mcclure,Invalid Date,0%,North,<NA>,<NA>
+2869,Also Max,Furniture,452.14,3,1356.42,Thomas Mcclure,Invalid Date,0%,North,Invalid Date,Invalid Date
 2870,Our Plus,Sports,287.3,2,574.6,Christopher Roach Jr.,2022-12-22,0%,West,12,2022
 2871,Piece Classic,Furniture,984.2,3,2952.6000000000004,Diamond Mason,2023-11-21,0%,South,11,2023
 2872,Although Pro,Electronics,325.81,2,651.62,Mallory Duarte,2023-09-25,0%,East,9,2023
@@ -913,7 +913,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2911,Yeah Classic,Apparel,41.77,3,125.31,Michael Sanchez,2023-01-13,0%,North,1,2023
 2912,Place Pro,Furniture,121.56,2,243.12,Samantha Bell,2023-04-01,0%,East,4,2023
 2913,Performance Lite,Electronics,257.29,3,771.8700000000001,Colin Schwartz,2023-11-23,22%,East,11,2023
-2914,Professional Pro,Apparel,43.57,3,130.71,Patricia Davis,Invalid Date,0%,East,<NA>,<NA>
+2914,Professional Pro,Apparel,43.57,3,130.71,Patricia Davis,Invalid Date,0%,East,Invalid Date,Invalid Date
 2915,Why Max,Apparel,13.17,3,39.51,Angela Ryan,2024-07-16,0%,North,7,2024
 2916,Industry Pro,Apparel,46.21,2,92.42,Christopher Cain,2023-05-01,0%,South,5,2023
 2917,Notice Max,Furniture,584.16,2,1168.32,Eric Baldwin,2023-02-19,0%,West,2,2023
@@ -945,25 +945,25 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2943,Turn Max,Sports,177.39,4,709.56,Matthew Estrada,2024-01-16,0%,West,1,2024
 2944,Turn Plus,Sports,51.64,2,103.28,Adrian Levy,2024-03-13,0%,East,3,2024
 2945,Personal Max,Electronics,80.65,3,241.95,Customer 110,2023-10-12,0%,South,10,2023
-2946,His Pro,Furniture,121.61,4,486.44,Jennifer Torres,Invalid Date,0%,North,<NA>,<NA>
+2946,His Pro,Furniture,121.61,4,486.44,Jennifer Torres,Invalid Date,0%,North,Invalid Date,Invalid Date
 2947,Opportunity Max,Apparel,26.16,1,26.16,Gregory Schmidt,2023-01-09,26%,South,1,2023
-2948,Significant Max,Sports,278.93,3,836.79,Customer 111,Invalid Date,0%,North,<NA>,<NA>
+2948,Significant Max,Sports,278.93,3,836.79,Customer 111,Invalid Date,0%,North,Invalid Date,Invalid Date
 2949,Practice Lite,Apparel,49.94,4,199.76,Lisa Kane,2023-11-09,0%,South,11,2023
 2950,Design Max,Electronics,213.81,1,213.81,David Moore,2023-03-22,26%,West,3,2023
 2951,Network Classic,Sports,190.97,1,190.97,Katherine Klein,2024-08-14,0%,East,8,2024
 2952,Audience Max,Apparel,35.04,1,35.04,Jenna Jones,2024-09-05,0%,East,9,2024
 2953,Television Max,Sports,205.16,2,410.32,Customer 112,2023-10-15,13%,East,10,2023
 2954,Strategy Pro,Home Decor,127.36,1,127.36,Cesar Johnson,2023-12-29,0%,East,12,2023
-2955,Call Plus,Sports,24.38,1,24.38,Danielle Rodriguez,Invalid Date,0%,North,<NA>,<NA>
+2955,Call Plus,Sports,24.38,1,24.38,Danielle Rodriguez,Invalid Date,0%,North,Invalid Date,Invalid Date
 2956,Despite Classic,Furniture,173.38,2,346.76,Michele Daugherty PhD,2024-08-20,0%,East,8,2024
 2957,Four Plus,Furniture,604.22,2,1208.44,Ronnie Williams,2023-06-01,0%,North,6,2023
-2958,Win Plus,Furniture,306.82,2,613.64,Randall Brown,Invalid Date,13%,South,<NA>,<NA>
+2958,Win Plus,Furniture,306.82,2,613.64,Randall Brown,Invalid Date,13%,South,Invalid Date,Invalid Date
 2959,Pretty Lite,Apparel,14.9,2,29.8,Alexis Taylor,2024-05-25,0%,East,5,2024
 2960,Worry Pro,Home Decor,111.38,1,111.38,Scott Carr,2024-03-05,14%,West,3,2024
 2961,Always Classic,Home Decor,82.78,1,82.78,Larry Carlson,2023-07-31,21%,West,7,2023
 2962,Lawyer Classic,Furniture,679.77,1,679.77,Daniel Green,2023-11-04,0%,South,11,2023
 2963,Republican Lite,Electronics,390.43,2,780.86,Customer 113,2023-11-30,29%,North,11,2023
-2964,Sometimes Plus,Apparel,17.87,1,17.87,Jeffrey Salazar,Invalid Date,0%,East,<NA>,<NA>
+2964,Sometimes Plus,Apparel,17.87,1,17.87,Jeffrey Salazar,Invalid Date,0%,East,Invalid Date,Invalid Date
 2965,Technology Pro,Sports,268.62,3,805.86,Jeremiah Miller,2024-02-26,0%,West,2,2024
 2966,Star Pro,Furniture,153.4,3,460.2,Jonathan Marquez,2024-11-05,0%,North,11,2024
 2967,Election Plus,Electronics,323.72,1,323.72,Amy Nelson,2023-11-05,0%,South,11,2023
@@ -980,7 +980,7 @@ Order_ID,Product_Name,Category,Price,Quantity,Total_Price,Customer_Name,Date,Dis
 2978,Oil Lite,Sports,130.36,2,260.72,Joseph Patterson,2022-12-22,0%,East,12,2022
 2979,Expert Lite,Home Decor,107.11,1,107.11,Thomas Wilson,2024-01-31,25%,East,1,2024
 2980,Whether Plus,Sports,211.98,4,847.92,Sandra Bright,2023-02-09,6%,East,2,2023
-2981,Learn Plus,Electronics,170.74,4,682.96,Angela Hudson,Invalid Date,0%,North,<NA>,<NA>
+2981,Learn Plus,Electronics,170.74,4,682.96,Angela Hudson,Invalid Date,0%,North,Invalid Date,Invalid Date
 2982,Front Lite,Furniture,54.79,3,164.37,Monica Anderson,2024-09-04,0%,South,9,2024
 2983,Tree Lite,Sports,172.99,3,518.97,Leslie White,2024-11-11,0%,West,11,2024
 2984,Agree Plus,Sports,228.0,1,228.0,Lisa Harris,2024-09-20,16%,East,9,2024
